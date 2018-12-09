@@ -1,0 +1,86 @@
+.page-template-front-page .site-header{
+	margin-bottom: 0;
+}
+.featured_home, .featured_horizontal, .small_products_home{
+    margin-top: 70px;
+}
+
+.custom_title{
+    margin-top: 70px;
+}
+.featured_products .owl-carousel .owl-wrapper-outer{
+    max-height: 480px;
+}
+.site-logo{
+    margin-bottom: 20px;
+}
+.icons_home{
+    margin-bottom: 50px;
+}
+.small_products_home .shop-bottom-sidebar .woocommerce.widget_products ul.product_list_widget li .product-title:after{
+    left: 53%;
+}
+.small_products_home .woocommerce .star-rating, .woocommerce-page .star-rating{
+    margin-left: 0;
+}
+#owl-demo .item{
+margin: 3px;
+}
+#owl-demo .item img{
+display: block;
+width: 100%;
+height: auto;
+}
+.latest_posts_home .posts-img-link{
+    background: #fff;
+    color: #7f7a75;
+    border: 1px solid #ebebeb;
+    width: 65px;
+    height: 25px;
+    padding: 0 25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -12.5px;
+    margin-left: -33px;
+    opacity: 0;
+}
+.latest_post_home .owl-item:hover >.posts-img-link{
+    background: black;
+    color: #7f7a75;
+    border: 1px solid #ebebeb;
+    width: 65px;
+    height: 25px;
+    padding: 0 25px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -12.5px;
+    margin-left: -33px;
+}
+.info-container, .top-nav-container{
+    margin-top: 5px;
+}
+.brideliness-searchform{
+    text-align: right;
+}
+.widget_brideliness_search_widget #brideliness-searchform-container .searchtext{
+    width: 200px;
+}
+
+@media (max-width:768px){
+    .widget_shopping_cart .heading.standart-style .cart-icon{
+        margin-left: 0;
+    }
+}
+@media (max-width:1000px){
+    .featured_horizontal{
+        display: none;
+    }
+}
+@media (max-width:768px){
+    .brideliness-banner.banner-with-effects .main-caption span{
+        font-size: 20px;
+        line-height: 17px!important;
+    }
+}

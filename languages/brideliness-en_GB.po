@@ -1,0 +1,2960 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brideliness\n"
+"POT-Creation-Date: 2018-10-30 22:14+0100\n"
+"PO-Revision-Date: 2018-10-30 22:14+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:9
+msgid "We are really"
+msgstr ""
+
+#: 404.php:9
+msgid "sorry"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"We are not sure what are you looking for. Maybe try a search or go home by"
+msgstr ""
+
+#: 404.php:14
+msgid "click here"
+msgstr ""
+
+#: archive.php:9
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:12 part-templates/page-title.php:68
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:15
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:15 part-templates/page-title.php:73
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:18
+msgid "Archives"
+msgstr ""
+
+#: comments.php:13
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:27 comments.php:37
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:28
+msgid "Comments Navigation:"
+msgstr ""
+
+#: comments.php:38
+msgid " Older Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Newer Comments "
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: content-gallery.php:24 content.php:24
+msgid "Featured"
+msgstr ""
+
+#: content-gallery.php:25 content-lookbook.php:4 content-page.php:7
+#: content.php:25 image.php:21 inc/brideliness-functions.php:294
+#: inc/brideliness-functions.php:296
+msgid "Edit"
+msgstr ""
+
+#: content-gallery.php:72 content-gallery.php:81 content-lookbook.php:44
+#: content-lookbook.php:54 content.php:73 content.php:83
+#, php-format
+msgid "Click to read more about %s"
+msgstr ""
+
+#: content-gallery.php:78 content-lookbook.php:50 content.php:79
+msgid "Click here to read more"
+msgstr ""
+
+#: content-gallery.php:130 content-gallery.php:148 content.php:91
+#: content.php:109
+msgid "by "
+msgstr ""
+
+#: content-gallery.php:176 content.php:137
+msgid "Click to read more"
+msgstr ""
+
+#: content-gallery.php:181 content-page.php:20 content.php:142 index.php:48
+#: page-templates/gallery.php:228
+msgid "Pages:"
+msgstr ""
+
+#: content-gallery.php:194 content.php:154
+msgid "Share this article with your friends ..."
+msgstr ""
+
+#: content-lookbook.php:119
+msgid "Date:"
+msgstr ""
+
+#: content-lookbook.php:120
+msgid "Category:"
+msgstr ""
+
+#: content-none.php:5
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:11
+msgid "Ready to publish your first post? "
+msgstr ""
+
+#: content-none.php:12
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: functions.php:65
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Primary Menu (Under Logo)"
+msgstr ""
+
+#: functions.php:89
+msgid "1 Column (no sidebars)"
+msgstr ""
+
+#: functions.php:90
+msgid "2 Columns, sidebar on left"
+msgstr ""
+
+#: functions.php:91
+msgid "2 Columns, sidebar on right"
+msgstr ""
+
+#: functions.php:137
+msgid "Quickview"
+msgstr ""
+
+#: functions.php:138
+msgid "Compare"
+msgstr ""
+
+#: functions.php:139
+msgid "Added to Compare List"
+msgstr ""
+
+#: functions.php:140
+msgid "Add to Wish List"
+msgstr ""
+
+#: functions.php:141
+msgid "Added to Wish List"
+msgstr ""
+
+#: functions.php:142
+msgid "View Wish List"
+msgstr ""
+
+#: functions.php:164
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:166
+msgid "Appears on single blog posts and on Blog Page"
+msgstr ""
+
+#: functions.php:173
+msgid "Pages Sidebar"
+msgstr ""
+
+#: functions.php:175
+msgid "Appears on Pages"
+msgstr ""
+
+#: functions.php:182
+msgid "Header Top Panel Sidebar"
+msgstr ""
+
+#: functions.php:184
+msgid "Located at the top of site"
+msgstr ""
+
+#: functions.php:191
+msgid "Aside Logo Left sidebar(Standart Header)"
+msgstr ""
+
+#: functions.php:193
+msgid "Located to the left from header"
+msgstr ""
+
+#: functions.php:200
+msgid "Aside Logo Right sidebar(Standart Header)"
+msgstr ""
+
+#: functions.php:202
+msgid "Located to the right from header"
+msgstr ""
+
+#: functions.php:209
+msgid "Aside Logo Sidebar(Fixed Header)"
+msgstr ""
+
+#: functions.php:211
+msgid "Located to the right of the Header"
+msgstr ""
+
+#: functions.php:218
+msgid "Menu Sidebar(Standart Header)"
+msgstr ""
+
+#: functions.php:220
+msgid "Located to the right after menu"
+msgstr ""
+
+#: functions.php:227
+msgid "Front Page Sidebar"
+msgstr ""
+
+#: functions.php:229
+msgid "Appears on Front Page"
+msgstr ""
+
+#: functions.php:236
+msgid "Shop Page Sidebar"
+msgstr ""
+
+#: functions.php:238
+msgid "Appears on Products page"
+msgstr ""
+
+#: functions.php:245
+msgid "Shop Page Special Filters Sidebar"
+msgstr ""
+
+#: functions.php:247
+msgid "Located at the top of the products page"
+msgstr ""
+
+#: functions.php:254
+msgid "Shop Bottom Sidebar #1"
+msgstr ""
+
+#: functions.php:256 functions.php:265
+msgid "Located at the bottom content shop"
+msgstr ""
+
+#: functions.php:263
+msgid "Shop Bottom Sidebar #2"
+msgstr ""
+
+#: functions.php:272
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: functions.php:274
+msgid "Appears on Single Products page"
+msgstr ""
+
+#: functions.php:282
+msgid "Footer Sidebar Col#1"
+msgstr ""
+
+#: functions.php:284 functions.php:293 functions.php:302 functions.php:311
+#: functions.php:320
+msgid "Located in the footer of the site"
+msgstr ""
+
+#: functions.php:291
+msgid "Footer Sidebar Col#2"
+msgstr ""
+
+#: functions.php:300
+msgid "Footer Sidebar Col#3"
+msgstr ""
+
+#: functions.php:309
+msgid "Footer Sidebar Col#4"
+msgstr ""
+
+#: functions.php:318
+msgid "Footer Bottom Sidebar"
+msgstr ""
+
+#: functions.php:328 options.php:181
+msgid "Brideliness Specials Sidebar #1"
+msgstr ""
+
+#: functions.php:330 functions.php:341 functions.php:352
+msgid ""
+"This sidebar can be placed in any part of your home page where Visual "
+"Composer plugin is used"
+msgstr ""
+
+#: functions.php:339 options.php:188
+msgid "Brideliness Specials Sidebar #2"
+msgstr ""
+
+#: functions.php:350 options.php:195
+msgid "Brideliness Specials Sidebar #3"
+msgstr ""
+
+#: functions.php:391 functions.php:392
+msgid "Brideliness Theme Options"
+msgstr ""
+
+#: image.php:40
+msgid "Date:&nbsp;"
+msgstr ""
+
+#: image.php:41
+msgid "Comments:&nbsp;"
+msgstr ""
+
+#: image.php:42
+msgid "Source Image:&nbsp;"
+msgstr ""
+
+#: image.php:47
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:48
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:58
+msgid "<span class=\"arrow\">←</span></i>&nbsp;&nbsp;Previous Image"
+msgstr ""
+
+#: image.php:59
+msgid ""
+"Next Image&nbsp;&nbsp;&nbsp;<span class=\"next-arrow\">&nbsp;&nbsp;<span "
+"class=\"arrow\">→</span></span>"
+msgstr ""
+
+#: inc/brideliness-functions.php:35
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/brideliness-functions.php:49
+msgid "Shop Look"
+msgstr ""
+
+#: inc/brideliness-functions.php:78
+msgid "off"
+msgstr ""
+
+#: inc/brideliness-functions.php:79
+msgid "comments"
+msgstr ""
+
+#: inc/brideliness-functions.php:86
+msgid ", "
+msgstr ""
+
+#: inc/brideliness-functions.php:88
+msgid "In "
+msgstr ""
+
+#: inc/brideliness-functions.php:96
+msgid "Tag:"
+msgstr ""
+
+#: inc/brideliness-functions.php:104
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: inc/brideliness-functions.php:296
+msgid "Pingback:"
+msgstr ""
+
+#: inc/brideliness-functions.php:301
+msgid "Author's gravatar"
+msgstr ""
+
+#: inc/brideliness-functions.php:312
+msgid "at "
+msgstr ""
+
+#: inc/brideliness-functions.php:316
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/brideliness-functions.php:355
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/brideliness-functions.php:356
+#, php-format
+msgid "Leave Your Reply to %s"
+msgstr ""
+
+#: inc/brideliness-functions.php:357
+msgid "Cancel Reply"
+msgstr ""
+
+#: inc/brideliness-functions.php:358
+msgid "Submit"
+msgstr ""
+
+#: inc/brideliness-functions.php:361 inc/brideliness-woo-modification.php:777
+#: widgets/brideliness-widget-collapsing-categories.php:53
+msgid "Name"
+msgstr ""
+
+#: inc/brideliness-functions.php:365
+msgid "E-mail"
+msgstr ""
+
+#: inc/brideliness-functions.php:369
+msgid "Website"
+msgstr ""
+
+#: inc/brideliness-functions.php:375
+msgid "Comment "
+msgstr ""
+
+#: inc/brideliness-functions.php:379
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/brideliness-functions.php:384
+msgid "Logged in as "
+msgstr ""
+
+#: inc/brideliness-functions.php:388
+msgid "Log out of this account"
+msgstr ""
+
+#: inc/brideliness-functions.php:389
+msgid "Log out?"
+msgstr ""
+
+#: inc/brideliness-functions.php:392
+msgid "Your email address will not be published. Required fields are marked"
+msgstr ""
+
+#: inc/brideliness-functions.php:468
+msgid ""
+"<span class=\"previous-arrow\"><span class=\"arrow\">&larr;</span>previous</"
+"span>"
+msgstr ""
+
+#: inc/brideliness-functions.php:478
+msgid ""
+"<span class=\"next-arrow\">next<span class=\"arrow\">&rarr;</span></span>"
+msgstr ""
+
+#: inc/brideliness-functions.php:502
+msgid "Back To Top"
+msgstr ""
+
+#: inc/brideliness-functions.php:513
+msgid "Portfolio Filters"
+msgstr ""
+
+#: inc/brideliness-functions.php:516
+msgid "Used only for Portfolio and Gallery Pages Isotope filtering"
+msgstr ""
+
+#: inc/brideliness-functions.php:547
+msgid "Description for this field"
+msgstr ""
+
+#: inc/brideliness-functions.php:548
+msgid "Description here"
+msgstr ""
+
+#: inc/brideliness-functions.php:1119
+msgid "Need Help?"
+msgstr ""
+
+#: inc/brideliness-functions.php:1121
+msgid ""
+"Please, create ticket at <a href=\"https://themeszone.freshdesk.com\" target="
+"\"_blank\">https://themeszone.freshdesk.com</a> to get help with the theme."
+msgstr ""
+
+#: inc/brideliness-functions.php:1122
+msgid ""
+"Our support team will be glad to answer your questions regarding theme "
+"usage. We also provide paid customization and paid theme installation "
+"services. Please contact support on this matter!"
+msgstr ""
+
+#: inc/brideliness-functions.php:1123
+msgid ""
+"Please, be sure to read the online version of this theme's documentation, it "
+"contains answers to many questions people usually ask."
+msgstr ""
+
+#: inc/brideliness-functions.php:1126
+msgid "Read Theme Documentation"
+msgstr ""
+
+#: inc/brideliness-functions.php:1126
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/brideliness-functions.php:1128
+msgid "Create Support Ticket"
+msgstr ""
+
+#: inc/brideliness-functions.php:1128
+msgid "Support"
+msgstr ""
+
+#: inc/brideliness-functions.php:1210 inc/brideliness-functions.php:1216
+msgid "Brideliness Style"
+msgstr ""
+
+#: inc/brideliness-google-fonts.php:37
+msgctxt " font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/brideliness-google-fonts.php:43
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/brideliness-google-fonts.php:52
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: inc/brideliness-infinite-blog.php:46
+msgid "Loading..."
+msgstr ""
+
+#: inc/brideliness-post-like.php:209
+msgid "You Like:"
+msgstr ""
+
+#: inc/brideliness-post-like.php:223
+msgid "Nothing yet"
+msgstr ""
+
+#: inc/brideliness-post-like.php:237
+#, php-format
+msgid "%d <span>like</span>"
+msgid_plural "%d<span> likes</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:334 inc/brideliness-self-install.php:3979
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/brideliness-self-install.php:335 inc/brideliness-self-install.php:3980
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/brideliness-self-install.php:337 inc/brideliness-self-install.php:3982
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:339 inc/brideliness-self-install.php:3984
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:340 inc/brideliness-self-install.php:3985
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/brideliness-self-install.php:343 inc/brideliness-self-install.php:3988
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:349 inc/brideliness-self-install.php:3994
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:355 inc/brideliness-self-install.php:4000
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:361 inc/brideliness-self-install.php:4006
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:367 inc/brideliness-self-install.php:4012
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:373 inc/brideliness-self-install.php:4018
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:378 inc/brideliness-self-install.php:4023
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:383 inc/brideliness-self-install.php:4028
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:388 inc/brideliness-self-install.php:4033
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:392 inc/brideliness-self-install.php:4037
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/brideliness-self-install.php:393 inc/brideliness-self-install.php:912
+#: inc/brideliness-self-install.php:2618 inc/brideliness-self-install.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/brideliness-self-install.php:394 inc/brideliness-self-install.php:3244
+#: inc/brideliness-self-install.php:4038
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/brideliness-self-install.php:395 inc/brideliness-self-install.php:3037
+#: inc/brideliness-self-install.php:4039
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:397 inc/brideliness-self-install.php:4041
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/brideliness-self-install.php:399 inc/brideliness-self-install.php:4043
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/brideliness-self-install.php:401 inc/brideliness-self-install.php:4045
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:402 inc/brideliness-self-install.php:4046
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/brideliness-self-install.php:403 inc/brideliness-self-install.php:4047
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/brideliness-self-install.php:404 inc/brideliness-self-install.php:4048
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/brideliness-self-install.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/brideliness-self-install.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/brideliness-self-install.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/brideliness-self-install.php:1019 inc/brideliness-self-install.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/brideliness-self-install.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/brideliness-self-install.php:1206 inc/brideliness-self-install.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2358
+msgid "Required"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2380
+msgid "External Source"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2406
+msgid "Active"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/brideliness-self-install.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/brideliness-self-install.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2633
+msgid "Source"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2634
+msgid "Type"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2638
+msgid "Version"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2639
+msgid "Status"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2802
+msgid "Install"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2808
+msgid "Update"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2811
+msgid "Activate"
+msgstr ""
+
+#: inc/brideliness-self-install.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/brideliness-self-install.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/brideliness-self-install.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/brideliness-self-install.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/brideliness-self-install.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3594 inc/brideliness-self-install.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3594 inc/brideliness-self-install.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3874
+msgid "Themes Zone Add Visual Composer Custom Elements"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3886
+msgid "Instagram"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3892
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3898
+msgid "Max Mega Menu"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3904
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3910
+msgid "Google Maps Easy"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3916
+msgid "Wysija Newsletters"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3922
+msgid "YITH WooCommerce Compare"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3928
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3934
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3940
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3946
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: inc/brideliness-self-install.php:3972
+msgid ""
+"If you are about to install the plugins on your existing WordPress site then "
+"please back up your site, if it is a new installation just ignore the "
+"message."
+msgstr ""
+
+#: inc/brideliness-self-install.php:3974
+msgid ""
+"Due to high volume of piracy of our themes please contact our support with "
+"your purchase code to get your copy of Revolution Slider and Visual Composer."
+msgstr ""
+
+#: inc/brideliness-share-buttons.php:80
+msgid "Check this!"
+msgstr ""
+
+#: inc/brideliness-share-buttons.php:81
+msgid "See more at: "
+msgstr ""
+
+#: inc/brideliness-theme-layouts.php:9
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/brideliness-theme-layouts.php:21
+msgid "Specify a custom page layout for this content."
+msgstr ""
+
+#: inc/brideliness-theme-layouts.php:23
+msgid "Default Set in Brideliness Theme Options"
+msgstr ""
+
+#: inc/brideliness-theme-layouts.php:78
+msgid "Specify some layouts first!"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:69
+msgid "Show"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:75
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:86 page-templates/gallery.php:113
+msgid "All"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:121
+msgid "Date Added"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:175
+msgid "Click to view all special products"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:261 part-templates/pagination.php:33
+msgid "Previous"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:262 part-templates/pagination.php:34
+msgid "Next"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:279
+#: inc/brideliness-woo-modification.php:282
+#: inc/brideliness-woo-modification.php:285
+#: inc/brideliness-woo-modification.php:288
+msgid "Add to Bag"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:304
+msgid "Grid View"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:306
+msgid "List View"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:340
+msgid "Sort by"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:430
+#: widgets/brideliness-widget-recent-posts.php:189
+#: widgets/brideliness-widget-recent-posts.php:197
+msgid "Click to learn more about"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:483
+msgid "Sale!"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:510
+msgid "Share this look with your friends ..."
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:628
+msgid "Others People Think"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:685
+msgid "Post navigation"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:690
+msgid "Previous Product"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:698
+msgid "Next Product"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:735
+msgid "<span>Add a review</span>"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:738
+#, php-format
+msgid "<span>Be the first to review &ldquo;%s&rdquo;</span>"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:782
+msgid "Last Name"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:788
+msgid "Company"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:793
+msgid "Country"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:798
+msgid "Address"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:799
+msgctxt "placeholder"
+msgid "Street address"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:804
+msgid "Additional address info"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:805
+msgctxt "placeholder"
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:811
+#: inc/brideliness-woo-modification.php:812
+msgid "Town / City"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:818
+#: inc/brideliness-woo-modification.php:819
+msgid "State / County"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:825
+#: inc/brideliness-woo-modification.php:826
+msgid "Postcode / Zip"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:840
+msgid "Shipping address"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:848
+msgid "Payment Methods"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:871
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/brideliness-woo-modification.php:905
+msgid "Size Guide"
+msgstr ""
+
+#: index.php:41
+msgid "Show More Posts"
+msgstr ""
+
+#: options.php:42 options.php:624
+msgid "On"
+msgstr ""
+
+#: options.php:43 options.php:625
+msgid "Off"
+msgstr ""
+
+#: options.php:93
+msgid "Site Options"
+msgstr ""
+
+#: options.php:99
+msgid "Site Layout"
+msgstr ""
+
+#: options.php:104
+msgid "Select layout for site"
+msgstr ""
+
+#: options.php:109
+msgid "Wide"
+msgstr ""
+
+#: options.php:110
+msgid "Boxed"
+msgstr ""
+
+#: options.php:115
+msgid "Extra Features"
+msgstr ""
+
+#: options.php:120
+msgid "Enable Page Title?"
+msgstr ""
+
+#: options.php:121
+msgid "Switch to Off if you don't want to use Page Title"
+msgstr ""
+
+#: options.php:130
+msgid "Background for page title"
+msgstr ""
+
+#: options.php:131 options.php:758
+msgid "Add custom background color or image for page title"
+msgstr ""
+
+#: options.php:144
+msgid "Enable Breadcrumbs for site?"
+msgstr ""
+
+#: options.php:145
+msgid "Switch to Off if you don't want to use breadcrumbs"
+msgstr ""
+
+#: options.php:153
+msgid "Enable Post like system for site?"
+msgstr ""
+
+#: options.php:154
+msgid ""
+"Anabling post like functionality on your site + Extra Widgets (Popular "
+"Posts, User Likes)"
+msgstr ""
+
+#: options.php:162
+msgid "Enable Scroll to Top button for site?"
+msgstr ""
+
+#: options.php:163
+msgid "If On appears in bottom center of site"
+msgstr ""
+
+#: options.php:171
+msgid "Enable single image page share buttons output?"
+msgstr ""
+
+#: options.php:172
+msgid ""
+"Switch to Off if you don't want to use share buttons on single image page"
+msgstr ""
+
+#: options.php:180
+msgid "Enable Brideliness Specials Sidebar #1 ?"
+msgstr ""
+
+#: options.php:187
+msgid "Enable Brideliness Specials Sidebar #2 ?"
+msgstr ""
+
+#: options.php:194
+msgid "Enable Brideliness Specials Sidebar #3 ?"
+msgstr ""
+
+#: options.php:202
+msgid "404 Page"
+msgstr ""
+
+#: options.php:207
+msgid "Background for 404 Page"
+msgstr ""
+
+#: options.php:208
+msgid "Add custom background image for Page 404"
+msgstr ""
+
+#: options.php:216
+msgid "Header Options"
+msgstr ""
+
+#: options.php:222
+msgid "Background for header"
+msgstr ""
+
+#: options.php:223
+msgid "Add custom background color or image for header section."
+msgstr ""
+
+#: options.php:230
+msgid "Top Panel Options"
+msgstr ""
+
+#: options.php:235
+msgid "Enable header's top panel?"
+msgstr ""
+
+#: options.php:236
+msgid "Switch to Off if you don't want to use header top panel"
+msgstr ""
+
+#: options.php:244
+msgid "Custom background color for top panel"
+msgstr ""
+
+#: options.php:245
+msgid "Check to specify custom background color for top panel"
+msgstr ""
+
+#: options.php:253
+msgid "Background color for header top panel"
+msgstr ""
+
+#: options.php:261
+msgid "Enable header's top panel border bottom ?"
+msgstr ""
+
+#: options.php:262
+msgid "Switch to Off if you don't want to use header top panel border bottom"
+msgstr ""
+
+#: options.php:270
+msgid "Enter phone number"
+msgstr ""
+
+#: options.php:271 options.php:279 options.php:287
+msgid "Info appears at center of headers top panel"
+msgstr ""
+
+#: options.php:278
+msgid "Enter mail"
+msgstr ""
+
+#: options.php:286
+msgid "Enter info contents"
+msgstr ""
+
+#: options.php:294
+msgid "Navigation Options"
+msgstr ""
+
+#: options.php:299
+msgid "Enable Sticky Menu"
+msgstr ""
+
+#: options.php:300
+msgid "Switch to Off if you don't want to use Sticky Menu"
+msgstr ""
+
+#: options.php:308
+msgid "Menu Background"
+msgstr ""
+
+#: options.php:309
+msgid "Select Menu Background"
+msgstr ""
+
+#: options.php:316
+msgid "Enable header's bottom Box Shadow"
+msgstr ""
+
+#: options.php:317
+msgid "Switch to Off if you don't want to use header's bottom box-shadow"
+msgstr ""
+
+#: options.php:325
+msgid "Select Header for site"
+msgstr ""
+
+#: options.php:330
+msgid "Fixed Header on Front Page"
+msgstr ""
+
+#: options.php:331
+msgid "Standart Header"
+msgstr ""
+
+#: options.php:336
+msgid "Upload image for logo"
+msgstr ""
+
+#: options.php:343
+msgid "Select position for logo Fixed Header"
+msgstr ""
+
+#: options.php:348 options.php:360
+msgid "Left"
+msgstr ""
+
+#: options.php:349 options.php:361
+msgid "Center"
+msgstr ""
+
+#: options.php:350 options.php:362
+msgid "Right"
+msgstr ""
+
+#: options.php:355
+msgid "Select position for logo Standart Header"
+msgstr ""
+
+#: options.php:367
+msgid "Color for top item menu on other page(Fixed Header)"
+msgstr ""
+
+#: options.php:374
+msgid "Color for top item menu on other page on hover(Fixed Header)"
+msgstr ""
+
+#: options.php:381
+msgid "Add Border Top for Menu(Standart Header)"
+msgstr ""
+
+#: options.php:382 options.php:390
+msgid "Check to Add Border Top for Menu"
+msgstr ""
+
+#: options.php:389
+msgid "Add Border Left for Menu Item(Standart Header)"
+msgstr ""
+
+#: options.php:398
+msgid "Footer Options"
+msgstr ""
+
+#: options.php:404
+msgid "Background for footer"
+msgstr ""
+
+#: options.php:405
+msgid "Add custom background color or image for footer section."
+msgstr ""
+
+#: options.php:412
+msgid "Background for bottom footer"
+msgstr ""
+
+#: options.php:413
+msgid "Add custom background color or image for footer bottom section."
+msgstr ""
+
+#: options.php:420
+msgid "Enter sites copyright"
+msgstr ""
+
+#: options.php:421
+msgid "Enter copyright (appears at the bottom of site)"
+msgstr ""
+
+#: options.php:429
+msgid "Layout Options"
+msgstr ""
+
+#: options.php:435
+msgid "Set Front page layout"
+msgstr ""
+
+#: options.php:436
+msgid "Specify the location of sidebars about the content on the front page"
+msgstr ""
+
+#: options.php:444
+msgid "Set global layout for Pages"
+msgstr ""
+
+#: options.php:445
+msgid ""
+"Specify the location of sidebars about the content on the Pages of your site"
+msgstr ""
+
+#: options.php:453
+msgid "Set Blog page layout"
+msgstr ""
+
+#: options.php:454
+msgid "Specify the location of sidebars about the content on the Blog page"
+msgstr ""
+
+#: options.php:462
+msgid "Set Single post view layout"
+msgstr ""
+
+#: options.php:463
+msgid "Specify the location of sidebars about the content on the single posts"
+msgstr ""
+
+#: options.php:471
+msgid "Set Products page (Shop page) layout"
+msgstr ""
+
+#: options.php:472
+msgid "Specify the location of sidebars about the content on the products page"
+msgstr ""
+
+#: options.php:480
+msgid "Set Single Product pages layout"
+msgstr ""
+
+#: options.php:481
+msgid ""
+"Specify the location of sidebars about the content on the single product "
+"pages"
+msgstr ""
+
+#: options.php:491
+msgid "Blog Options"
+msgstr ""
+
+#: options.php:497
+msgid "Enter text for Read More button"
+msgstr ""
+
+#: options.php:504
+msgid "Enable blog share buttons output?"
+msgstr ""
+
+#: options.php:505 options.php:583
+msgid "Switch to Off if you don't want to use share buttons"
+msgstr ""
+
+#: options.php:513
+msgid "Select pagination view for blog page"
+msgstr ""
+
+#: options.php:518
+msgid "Infinite blog"
+msgstr ""
+
+#: options.php:519 options.php:606
+msgid "Numeric pagination"
+msgstr ""
+
+#: options.php:524
+msgid "Blog Layout Options"
+msgstr ""
+
+#: options.php:529
+msgid "Select layout for blog"
+msgstr ""
+
+#: options.php:535 options.php:715
+msgid "List"
+msgstr ""
+
+#: options.php:536 options.php:714
+msgid "Grid"
+msgstr ""
+
+#: options.php:541
+msgid "Select number of columns for Blog GRID layout or ISOTOPE layout"
+msgstr ""
+
+#: options.php:547
+msgid "2 Columns"
+msgstr ""
+
+#: options.php:548
+msgid "3 Columns"
+msgstr ""
+
+#: options.php:549
+msgid "4 Columns"
+msgstr ""
+
+#: options.php:554
+msgid "Post Type Gallery Options"
+msgstr ""
+
+#: options.php:559
+msgid "Carousel for Gallery posts on blog page"
+msgstr ""
+
+#: options.php:560
+msgid "Switch to \"Off\" if you don’t want to show carousel for gallery posts"
+msgstr ""
+
+#: options.php:568
+msgid "Single Post Options"
+msgstr ""
+
+#: options.php:573
+msgid "Enable single post Prev/Next navigation output?"
+msgstr ""
+
+#: options.php:574
+msgid "Switch to Off if you don't want to use single post navigation"
+msgstr ""
+
+#: options.php:582
+msgid "Enable single post share buttons output?"
+msgstr ""
+
+#: options.php:591
+msgid "Enable single post Related Posts output?"
+msgstr ""
+
+#: options.php:592
+msgid "Switch to Off if you don't want to show related posts"
+msgstr ""
+
+#: options.php:600
+msgid "Select pagination type for comments"
+msgstr ""
+
+#: options.php:605
+msgid "Newer/Older pagination"
+msgstr ""
+
+#: options.php:612
+msgid "Store Options"
+msgstr ""
+
+#: options.php:618
+msgid "Enable Catalog Mode?"
+msgstr ""
+
+#: options.php:619
+msgid ""
+"Switch to ON if you want to switch your shop into a catalog mode (no prices, "
+"no add to cart)"
+msgstr ""
+
+#: options.php:626
+msgid "Catalog Mode With Price"
+msgstr ""
+
+#: options.php:631
+msgid "Sale badge text"
+msgstr ""
+
+#: options.php:632
+msgid "Enter your sale badge text"
+msgstr ""
+
+#: options.php:640
+msgid "Show number of products in the cart widget?"
+msgstr ""
+
+#: options.php:641
+msgid ""
+"Switch to ON if you want to show a a number of products currently in the "
+"cart widget"
+msgstr ""
+
+#: options.php:649
+msgid "Show store Breadcrumbs?"
+msgstr ""
+
+#: options.php:650
+msgid "Switch to Off if you don't want to use breadcrumbs on store page"
+msgstr ""
+
+#: options.php:658
+msgid "Add special sidebar for filters on Store page?"
+msgstr ""
+
+#: options.php:659
+msgid "Switch to Off if you don't want to use special sidebar on products page"
+msgstr ""
+
+#: options.php:667
+msgid "Store Layout Options"
+msgstr ""
+
+#: options.php:672
+msgid "Enter number of products to show on Store page"
+msgstr ""
+
+#: options.php:680
+msgid "Select product quantity per row on Store page"
+msgstr ""
+
+#: options.php:685
+msgid "3 Products"
+msgstr ""
+
+#: options.php:686
+msgid "4 Products"
+msgstr ""
+
+#: options.php:691
+msgid "Show Per Page Filter?"
+msgstr ""
+
+#: options.php:692
+msgid "Switch to Off if you don't want Per Page Filter"
+msgstr ""
+
+#: options.php:700
+msgid "Show List/Grid products switcher?"
+msgstr ""
+
+#: options.php:701
+msgid "Switch to Off if you don't want to use switcher on products page"
+msgstr ""
+
+#: options.php:709
+msgid "Set default view for products (list or grid)"
+msgstr ""
+
+#: options.php:720
+msgid "Single Product Options"
+msgstr ""
+
+#: options.php:725
+msgid "Choose single product page type"
+msgstr ""
+
+#: options.php:730
+msgid "Single Product Page Type 1"
+msgstr ""
+
+#: options.php:731
+msgid "Single Product Page Type 2"
+msgstr ""
+
+#: options.php:732
+msgid "Single Product Page Type 3"
+msgstr ""
+
+#: options.php:738
+msgid "Show Single Product pagination (prev/next product)?"
+msgstr ""
+
+#: options.php:739
+msgid ""
+"Switch to Off if you don't want to use single pagination on product page"
+msgstr ""
+
+#: options.php:747
+msgid "Enable Guide Size on Single Product?"
+msgstr ""
+
+#: options.php:748
+msgid "Switch to Off if you don't want to use Guide Size on Single Product"
+msgstr ""
+
+#: options.php:757
+msgid "Image for Guide Size"
+msgstr ""
+
+#: options.php:765
+msgid "Show single product share buttons?"
+msgstr ""
+
+#: options.php:766
+msgid "Switch to Off if you don't want to use single product share buttons"
+msgstr ""
+
+#: options.php:774
+msgid "Use custom images output on Single product page?"
+msgstr ""
+
+#: options.php:775
+msgid "Turning on custom image carousel on single product page"
+msgstr ""
+
+#: options.php:784
+msgid "Choose slider type for images on Single product page"
+msgstr ""
+
+#: options.php:790
+msgid "Slider"
+msgstr ""
+
+#: options.php:791
+msgid "Slider with pop-up gallery"
+msgstr ""
+
+#: options.php:792
+msgid "Slider with thumbnails"
+msgstr ""
+
+#: options.php:793
+msgid "Vertical thumbnails"
+msgstr ""
+
+#: options.php:798
+msgid "Select transition effect for Product Images Carousel"
+msgstr ""
+
+#: options.php:804
+msgid "Fade"
+msgstr ""
+
+#: options.php:805
+msgid "Back Slide"
+msgstr ""
+
+#: options.php:806
+msgid "Go Down"
+msgstr ""
+
+#: options.php:807
+msgid "Fade Up"
+msgstr ""
+
+#: options.php:812
+msgid "Show single product up-sells?"
+msgstr ""
+
+#: options.php:821
+msgid "Select how many Up-Sell Products to show on Single product page"
+msgstr ""
+
+#: options.php:827
+msgid "2 products"
+msgstr ""
+
+#: options.php:828 options.php:850
+msgid "3 products"
+msgstr ""
+
+#: options.php:829 options.php:851
+msgid "4 products"
+msgstr ""
+
+#: options.php:830
+msgid "5 products"
+msgstr ""
+
+#: options.php:835
+msgid "Show single product related products?"
+msgstr ""
+
+#: options.php:844
+msgid "Select how many Related Products to show on Single product page"
+msgstr ""
+
+#: options.php:856
+msgid "Banner Options"
+msgstr ""
+
+#: options.php:861
+msgid "Store Banner view switcher"
+msgstr ""
+
+#: options.php:869
+msgid "Enter height banner"
+msgstr ""
+
+#: options.php:877
+msgid "Background for banner"
+msgstr ""
+
+#: options.php:878
+msgid "Add custom background color or image for banner shop section."
+msgstr ""
+
+#: options.php:891
+msgid "Enter a title for banner"
+msgstr ""
+
+#: options.php:898
+msgid "Enter a description for banner"
+msgstr ""
+
+#: options.php:905
+msgid "Enter store banner url for button"
+msgstr ""
+
+#: options.php:912
+msgid "Enter a store banner button text"
+msgstr ""
+
+#: options.php:919
+msgid "Banner Button Text Color"
+msgstr ""
+
+#: options.php:926
+msgid "Button Background"
+msgstr ""
+
+#: options.php:933
+msgid "Select text position for banner"
+msgstr ""
+
+#: options.php:938
+msgid "center"
+msgstr ""
+
+#: options.php:939
+msgid "left"
+msgstr ""
+
+#: options.php:940
+msgid "right"
+msgstr ""
+
+#: options.php:945
+msgid "Typography and Colors"
+msgstr ""
+
+#: options.php:951
+msgid "Enable custom colors and fonts?"
+msgstr ""
+
+#: options.php:960
+msgid "Fonts Options"
+msgstr ""
+
+#: options.php:965
+msgid "Google Fonts Api Key"
+msgstr ""
+
+#: options.php:966
+msgid "Add Your Google Fonts Api Key"
+msgstr ""
+
+#: options.php:974
+msgid "Primary text typography options"
+msgstr ""
+
+#: options.php:975
+msgid "Specify color for all text content"
+msgstr ""
+
+#: options.php:989
+msgid "Secondary text color"
+msgstr ""
+
+#: options.php:990
+msgid ""
+"Specify secondary color for all meta content(categories, tags, excerpts, "
+"avtor biography)"
+msgstr ""
+
+#: options.php:998
+msgid "Content headings typography options"
+msgstr ""
+
+#: options.php:999
+msgid ""
+"Specify color for all headings in the content area(page/post/product titles)"
+msgstr ""
+
+#: options.php:1013
+msgid "Sidebar headings typography options"
+msgstr ""
+
+#: options.php:1014
+msgid "Specify color for all headings in the sidebar area(widget titles)"
+msgstr ""
+
+#: options.php:1028
+msgid "Footer headings typography options"
+msgstr ""
+
+#: options.php:1029
+msgid ""
+"Specify color for all headings in the footer widgets(footer widget titles)"
+msgstr ""
+
+#: options.php:1043
+msgid "Footer text color"
+msgstr ""
+
+#: options.php:1044
+msgid "Specify color for text in the footer area"
+msgstr ""
+
+#: options.php:1052
+msgid "Links and Buttons Options"
+msgstr ""
+
+#: options.php:1058
+msgid "Link color"
+msgstr ""
+
+#: options.php:1059
+msgid "Specify color for all text links"
+msgstr ""
+
+#: options.php:1067
+msgid "Link color on hover"
+msgstr ""
+
+#: options.php:1068
+msgid "Specify color for all hovered text links"
+msgstr ""
+
+#: options.php:1076
+msgid "Primary button typography options"
+msgstr ""
+
+#: options.php:1077
+msgid "Specify fonts for buttons(product \"add to cart\", form buttons, etc.)"
+msgstr ""
+
+#: options.php:1091
+msgid "Primary button background color"
+msgstr ""
+
+#: options.php:1092
+msgid "Specify background color for buttons."
+msgstr ""
+
+#: options.php:1100
+msgid "Primary button background color on hover"
+msgstr ""
+
+#: options.php:1101
+msgid "Specify background color for buttons on hover."
+msgstr ""
+
+#: options.php:1109
+msgid "Primary button text color on hover"
+msgstr ""
+
+#: options.php:1110
+msgid "Specify text color for hovered buttons"
+msgstr ""
+
+#: options.php:1118
+msgid "Icons and other Elements"
+msgstr ""
+
+#: options.php:1124
+msgid "Main Theme color"
+msgstr ""
+
+#: options.php:1125
+msgid "Specify color for decorative elements(icons, buttons, switchers, etc.)"
+msgstr ""
+
+#: options.php:1133
+msgid "Theme Border color"
+msgstr ""
+
+#: options.php:1134
+msgid "Specify color for borders of the theme elements"
+msgstr ""
+
+#: options.php:1142
+msgid "Gallery Page"
+msgstr ""
+
+#: options.php:1148
+msgid "Choose hover effect for gallery item"
+msgstr ""
+
+#: options.php:1153
+msgid "Hover effect 1"
+msgstr ""
+
+#: options.php:1154
+msgid "Hover effect 2"
+msgstr ""
+
+#: options.php:1155
+msgid "Without hover effect"
+msgstr ""
+
+#: page-templates/front-page.php:35 page-templates/front-page.php:50
+#: page-templates/front-page.php:65
+msgid "VIEW NOW"
+msgstr ""
+
+#: page-templates/front-page.php:76
+msgid "SHOP NOW"
+msgstr ""
+
+#: page-templates/front-page.php:81
+msgid "FEATURED PRODUCTS"
+msgstr ""
+
+#: page-templates/front-page.php:88
+msgid "ON SALE"
+msgstr ""
+
+#: page-templates/front-page.php:111
+msgid "FROM THE BLOG"
+msgstr ""
+
+#: page-templates/front-page.php:143
+msgid "by"
+msgstr ""
+
+#: page-templates/front-page.php:143
+msgid "in"
+msgstr ""
+
+#: page-templates/front-page.php:213
+msgid "FREE ORDER & DELIVERY"
+msgstr ""
+
+#: page-templates/front-page.php:214
+msgid "Guaranteed Delivery In 4 Days"
+msgstr ""
+
+#: page-templates/front-page.php:233
+msgid "RETURN & REFUNDS"
+msgstr ""
+
+#: page-templates/front-page.php:234
+msgid "Your satisfaction is of the utmost importance"
+msgstr ""
+
+#: page-templates/front-page.php:253
+msgid "PRIVACY & SECURITY"
+msgstr ""
+
+#: page-templates/front-page.php:254
+msgid "What our privacy and security programs"
+msgstr ""
+
+#: page-templates/gallery.php:178
+msgid "Quick View"
+msgstr ""
+
+#: page-templates/gallery.php:195
+#: part-templates/brideliness-related-posts.php:51
+#: part-templates/brideliness-related-posts.php:66
+msgid "Click to learn more"
+msgstr ""
+
+#: part-templates/author-bio.php:15
+msgid "All posts"
+msgstr ""
+
+#: part-templates/author-bio.php:20
+msgid "written by"
+msgstr ""
+
+#: part-templates/breadcrumbs.php:6
+msgid "Home"
+msgstr ""
+
+#: part-templates/breadcrumbs.php:7
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: part-templates/breadcrumbs.php:8
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: part-templates/breadcrumbs.php:9
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: part-templates/breadcrumbs.php:10
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: part-templates/breadcrumbs.php:11
+msgid "Error 404"
+msgstr ""
+
+#: part-templates/breadcrumbs.php:141
+msgid "Page"
+msgstr ""
+
+#: part-templates/brideliness-related-posts.php:30
+msgid "Related Posts"
+msgstr ""
+
+#: part-templates/header-top.php:53 part-templates/logo-group.php:121
+#: part-templates/logo-group.php:160
+msgid "Skip to content"
+msgstr ""
+
+#: part-templates/page-title.php:11
+msgid "check your"
+msgstr ""
+
+#: part-templates/page-title.php:12
+msgid "shopping cart"
+msgstr ""
+
+#: part-templates/page-title.php:16
+msgid "add details to"
+msgstr ""
+
+#: part-templates/page-title.php:17
+msgid "chekout"
+msgstr ""
+
+#: part-templates/page-title.php:21
+msgid "your account page"
+msgstr ""
+
+#: part-templates/page-title.php:22
+msgid "account page"
+msgstr ""
+
+#: part-templates/page-title.php:33
+msgid "recently from"
+msgstr ""
+
+#: part-templates/page-title.php:39
+msgid "our blog"
+msgstr ""
+
+#: part-templates/page-title.php:44
+msgid "search"
+msgstr ""
+
+#: part-templates/page-title.php:49
+msgid "Tag"
+msgstr ""
+
+#: part-templates/page-title.php:54
+msgid "Category"
+msgstr ""
+
+#: part-templates/page-title.php:59
+msgid "All posts by"
+msgstr ""
+
+#: part-templates/page-title.php:64
+msgid "Daily Archives"
+msgstr ""
+
+#: part-templates/page-title.php:69
+msgid "Monthly Archives"
+msgstr ""
+
+#: part-templates/page-title.php:74
+msgid "Yearly Archives"
+msgstr ""
+
+#: part-templates/page-title.php:89
+msgid "take a look at"
+msgstr ""
+
+#: part-templates/page-title.php:90 part-templates/page-title.php:95
+msgid "lookbook"
+msgstr ""
+
+#: part-templates/pagination.php:25
+msgid "Posts navigation"
+msgstr ""
+
+#: theme-options/includes/class-options-framework-admin.php:91
+#: theme-options/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr ""
+
+#: theme-options/includes/class-options-framework-admin.php:203
+msgid "Save Options"
+msgstr ""
+
+#: theme-options/includes/class-options-framework-admin.php:204
+msgid "Restore Defaults"
+msgstr ""
+
+#: theme-options/includes/class-options-framework-admin.php:204
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: theme-options/includes/class-options-framework-admin.php:235
+msgid "Default options restored."
+msgstr ""
+
+#: theme-options/includes/class-options-framework-admin.php:289
+msgid "Options saved."
+msgstr ""
+
+#: theme-options/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr ""
+
+#: theme-options/includes/class-options-media-uploader.php:65
+#: theme-options/includes/class-options-media-uploader.php:118
+msgid "Upload"
+msgstr ""
+
+#: theme-options/includes/class-options-media-uploader.php:67
+#: theme-options/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr ""
+
+#: theme-options/includes/class-options-media-uploader.php:70
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: theme-options/includes/class-options-media-uploader.php:94
+msgid "View File"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:316
+msgid "No Repeat"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:317
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:318
+msgid "Repeat Vertically"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:319
+msgid "Repeat All"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:331
+msgid "Top Left"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:332
+msgid "Top Center"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:334
+msgid "Middle Left"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:335
+msgid "Middle Center"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:336
+msgid "Middle Right"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:337
+msgid "Bottom Left"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:338
+msgid "Bottom Center"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:339
+msgid "Bottom Right"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:351
+msgid "Scroll Normally"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:352
+msgid "Fixed in Place"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:425
+msgid "Italic"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:427
+msgid "Light"
+msgstr ""
+
+#: theme-options/includes/class-options-sanitization.php:428
+msgid "Bold Italic"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:16
+msgid "WooCommerce Cart (Brideliness)"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:17
+msgid "Display the user's Cart in the sidebar."
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:49
+msgid "Cart"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:115
+#: widgets/brideliness-widget-contacts.php:33
+#: widgets/brideliness-widget-socials.php:119
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:40
+msgid "Title:"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:119
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:122
+msgid "Cart style 1"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:147
+#: widgets/brideliness-widget-cart.php:149
+msgid "View your shopping cart"
+msgstr ""
+
+#: widgets/brideliness-widget-cart.php:147
+#, php-format
+msgid "%d ITEM"
+msgid_plural "%d ITEMS"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:14
+msgid "Brideliness Collapsing Categories"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:15
+msgid ""
+"Brideliness special widget. Display configurable accordion with categories "
+"on your site."
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:32
+#: widgets/brideliness-widget-recent-posts.php:37
+#: widgets/brideliness-widget-search.php:27
+msgid "Title: "
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:39
+msgid "Show count for categories"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:42
+msgid "Categories type:"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:44
+msgid "Post Categories"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:45
+msgid "Product Categories"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:50
+#: widgets/brideliness-widget-recent-posts.php:58
+msgid "Sort by:"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:52
+msgid "ID"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:54
+msgid "Slug"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:59
+msgid "Order:"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:61
+msgid "Ascending"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:62
+msgid "Descending"
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:67
+msgid "Exclude Category (ID): "
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:70
+msgid "category IDs, separated by commas."
+msgstr ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:123
+msgid "No categories"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:12
+msgid "Brideliness Contacts Widget"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:13
+msgid "Brideliness special widget. An Address Widget with Google map"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:20
+msgid "Location"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:37
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:44
+msgid "Pre-Content"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:41
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:72
+msgid "Post-Content"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:45
+msgid "Address:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:49
+msgid "Skype:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:53
+msgid "Phone:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:57
+msgid "Fax:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:61
+msgid "Email:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:108
+msgid "a:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:109
+msgid "t:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:110
+msgid "f:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:111
+msgid "s:"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:112
+msgid "Email us"
+msgstr ""
+
+#: widgets/brideliness-widget-contacts.php:112
+msgid "e:"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:12
+msgid "Brideliness Recent Posts"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:13
+msgid ""
+"Brideliness special widget. Displaying number of recent posts on your site."
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:19
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:41
+msgid "How many posts to display: "
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:45
+msgid "Show Posts for next Post Type:"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:60
+msgid "Date"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:61
+msgid "Title"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:62
+msgid "Number of comments"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:63
+msgid "Author"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:64
+msgid "Menu Order (if specified only for pages)"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:65
+msgid "Random"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:70
+msgid "Reverse sort order (ascending)?"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:74
+msgid "Show publish date?"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:78
+msgid "Show list of post Categories?"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:82
+msgid "Show number of comments?"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:85
+msgid "Specify ID of category (categories) to show: "
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:90
+msgid "Show post thumbnail?"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:94
+msgid "Show post excerpt?"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:97
+msgid "Excerpt length (in words):"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:101
+msgid "Excerpt read more text:"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:106
+msgid "Show price? (products only)"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:208
+msgid ","
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:209
+msgid "Categories: "
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:213
+msgid "No comments yet"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:213
+msgid "1 comment"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:213
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: widgets/brideliness-widget-recent-posts.php:213
+msgid "Comments are off"
+msgstr ""
+
+#: widgets/brideliness-widget-search.php:12
+msgid "Brideliness Search"
+msgstr ""
+
+#: widgets/brideliness-widget-search.php:13
+msgid "Brideliness special widget. A search form for your site."
+msgstr ""
+
+#: widgets/brideliness-widget-search.php:20
+msgid "Search website..."
+msgstr ""
+
+#: widgets/brideliness-widget-search.php:31
+msgid "Input Text: "
+msgstr ""
+
+#: widgets/brideliness-widget-search.php:35
+msgid "Button Title Text: "
+msgstr ""
+
+#: widgets/brideliness-widget-search.php:42
+msgid "Product search only"
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:13
+msgid "Brideliness Social Icons"
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:16
+msgid ""
+"Brideliness special widget. Displays a list of social media website icons "
+"and a link to your profile."
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:130
+msgid "Icon Size:"
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:146
+msgid "Hide Title"
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:149
+msgid "Inline Mode"
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:158
+msgid "URL:"
+msgstr ""
+
+#: widgets/brideliness-widget-socials.php:210
+msgid "Connect us on "
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:12
+msgid "Brideliness Payment Icons"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:13
+msgid "Plum Tree special widget. Add payment methods icons"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:20
+msgid "We Accept"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:50
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:134
+msgid "American Express"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:51
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:139
+msgid "Discover"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:52
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:144
+msgid "Maestro"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:53
+msgid "Mastercard"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:54
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:154
+msgid "PayPal"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:55
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:159
+msgid "Visa"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:56
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:164
+msgid "Western Union"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:57
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:169
+msgid "Gift Cards"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:58
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:174
+msgid "Cash"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:59
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:179
+msgid "Bitcoin"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:60
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:184
+msgid "Amazon"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:61
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:189
+msgid "Skrill"
+msgstr ""
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:149
+msgid "MasterCard"
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid "Enter your full address to see shipping costs."
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:64
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:82
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:88
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:104
+#: woocommerce/checkout/review-order.php:113
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:116 woocommerce/cart/mini-cart.php:66
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:134
+msgid "Discount Code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:135
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:136
+msgid "Apply Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:142
+msgid "Clear Cart"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:60
+msgid "Quantity:"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85 woocommerce/checkout/review-order.php:66
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:37
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""

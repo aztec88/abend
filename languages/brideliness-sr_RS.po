@@ -1,0 +1,3569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brideliness\n"
+"POT-Creation-Date: 2018-10-30 22:23+0100\n"
+"PO-Revision-Date: 2018-10-30 22:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9
+#, fuzzy
+msgid "We are really"
+msgstr "Mi smo stvarno"
+
+#: 404.php:9
+#, fuzzy
+msgid "sorry"
+msgstr "Nažalost, ovaj kupon nije primjenjiv na odabrane proizvode."
+
+#: 404.php:13
+#, fuzzy
+msgid ""
+"We are not sure what are you looking for. Maybe try a search or go home by"
+msgstr "Nismo sigurni što tražite. Možda probati traženje ili ići kući mimo"
+
+#: 404.php:14
+#, fuzzy
+msgid "click here"
+msgstr "Kliknite ovdje za resetiranje zaporke"
+
+#: archive.php:9
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Dnevna arhiva %s"
+
+#: archive.php:12
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Mjesečna arhiva: %s"
+
+#: archive.php:12 part-templates/page-title.php:68
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:15
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Godišnja Arhiva: %s"
+
+#: archive.php:15 part-templates/page-title.php:73
+#, fuzzy
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "M j, Y"
+
+#: archive.php:18
+#, fuzzy
+msgid "Archives"
+msgstr "Dnevna arhiva %s"
+
+#: comments.php:13
+#, fuzzy, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 komentar"
+msgstr[1] ""
+msgstr[2] ""
+
+#: comments.php:27 comments.php:37
+msgid "Comment navigation"
+msgstr "Navigacija komentara"
+
+#: comments.php:28
+#, fuzzy
+msgid "Comments Navigation:"
+msgstr "Komentari navigacija:"
+
+#: comments.php:38
+#, fuzzy
+msgid " Older Comments"
+msgstr "Stariji Komentari"
+
+#: comments.php:39
+#, fuzzy
+msgid "Newer Comments "
+msgstr "Noviji Komentari"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: content-gallery.php:24 content.php:24
+msgid "Featured"
+msgstr "Istaknuto"
+
+#: content-gallery.php:25 content-lookbook.php:4 content-page.php:7
+#: content.php:25 image.php:21 inc/brideliness-functions.php:294
+#: inc/brideliness-functions.php:296
+msgid "Edit"
+msgstr "Uredi"
+
+#: content-gallery.php:72 content-gallery.php:81 content-lookbook.php:44
+#: content-lookbook.php:54 content.php:73 content.php:83
+#, php-format
+msgid "Click to read more about %s"
+msgstr "Kliknite ovdje %s za više informacija."
+
+#: content-gallery.php:78 content-lookbook.php:50 content.php:79
+#, fuzzy
+msgid "Click here to read more"
+msgstr "Kliknite ovdje da pročitate više"
+
+#: content-gallery.php:130 content-gallery.php:148 content.php:91 content.php:109
+#, fuzzy
+msgid "by "
+msgstr "by"
+
+#: content-gallery.php:176 content.php:137
+#, fuzzy
+msgid "Click to read more"
+msgstr "Kliknite ovdje %s za više informacija."
+
+#: content-gallery.php:181 content-page.php:20 content.php:142 index.php:48
+#: page-templates/gallery.php:228
+#, fuzzy
+msgid "Pages:"
+msgstr "Kreiraj izvorne WooCommerce stranice"
+
+#: content-gallery.php:194 content.php:154
+#, fuzzy
+msgid "Share this article with your friends ..."
+msgstr "Podijelite ovaj članak sa svojim prijateljima..."
+
+#: content-lookbook.php:119
+msgid "Date:"
+msgstr "Datum:"
+
+#: content-lookbook.php:120
+#, fuzzy
+msgid "Category:"
+msgstr "Kategorija"
+
+#: content-none.php:5
+msgid "Nothing Found"
+msgstr "Ništa nije pronađeno"
+
+#: content-none.php:11
+#, fuzzy
+msgid "Ready to publish your first post? "
+msgstr "Spreman objaviti svoj prvi post?"
+
+#: content-none.php:12
+#, fuzzy
+msgid "Get started here"
+msgstr "Početi ovdje"
+
+#: content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Nažalost, ništa se ne podudara s vašim pojmovima za pretraživanje. Pokušajte "
+"ponovo s nekim drugim ključnim riječima."
+
+#: content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching "
+"can help."
+msgstr ""
+"Čini se da ne možemo pronaći ono što tražite. Možda pretraživanje može pomoći."
+
+#: functions.php:65
+#, fuzzy
+msgid "Top Menu"
+msgstr "Top izbornik"
+
+#: functions.php:66
+#, fuzzy
+msgid "Primary Menu (Under Logo)"
+msgstr "Primarni izbornik (pod logotipom)"
+
+#: functions.php:89
+#, fuzzy
+msgid "1 Column (no sidebars)"
+msgstr "1 stupac (bez sidebars)"
+
+#: functions.php:90
+#, fuzzy
+msgid "2 Columns, sidebar on left"
+msgstr "2 stupca, sidebar na lijevoj strani"
+
+#: functions.php:91
+#, fuzzy
+msgid "2 Columns, sidebar on right"
+msgstr "2 kolone, sidebar na desnoj"
+
+#: functions.php:137
+#, fuzzy
+msgid "Quickview"
+msgstr "Quickview"
+
+#: functions.php:138
+msgid "Compare"
+msgstr "Usporedi"
+
+#: functions.php:139
+#, fuzzy
+msgid "Added to Compare List"
+msgstr "Dodani to usporediti rub"
+
+#: functions.php:140
+#, fuzzy
+msgid "Add to Wish List"
+msgstr "Dodaj u Wish list"
+
+#: functions.php:141
+#, fuzzy
+msgid "Added to Wish List"
+msgstr "Dodano u Wish list"
+
+#: functions.php:142
+#, fuzzy
+msgid "View Wish List"
+msgstr "View Wish list"
+
+#: functions.php:164
+#, fuzzy
+msgid "Blog Sidebar"
+msgstr "Blog sidebar"
+
+#: functions.php:166
+#, fuzzy
+msgid "Appears on single blog posts and on Blog Page"
+msgstr "Pojavljuje se na single blog postove i na blogu stranica"
+
+#: functions.php:173
+#, fuzzy
+msgid "Pages Sidebar"
+msgstr "Bočne trake stranica"
+
+#: functions.php:175
+#, fuzzy
+msgid "Appears on Pages"
+msgstr "Pojavljuje se na stranicama"
+
+#: functions.php:182
+#, fuzzy
+msgid "Header Top Panel Sidebar"
+msgstr "Naslov gornje bočne trake panela"
+
+#: functions.php:184
+#, fuzzy
+msgid "Located at the top of site"
+msgstr "Smješten na vrhu stranice"
+
+#: functions.php:191
+#, fuzzy
+msgid "Aside Logo Left sidebar(Standart Header)"
+msgstr "Osim logotipa Left sidebar (Standart zaglavlje)"
+
+#: functions.php:193
+#, fuzzy
+msgid "Located to the left from header"
+msgstr "Smješten lijevo od zaglavlja"
+
+#: functions.php:200
+#, fuzzy
+msgid "Aside Logo Right sidebar(Standart Header)"
+msgstr "Osim logotipa right sidebar (Standart zaglavlje)"
+
+#: functions.php:202
+#, fuzzy
+msgid "Located to the right from header"
+msgstr "Smješten desno od zaglavlja"
+
+#: functions.php:209
+#, fuzzy
+msgid "Aside Logo Sidebar(Fixed Header)"
+msgstr "Osim logotipa sidebar (fiksni zaglavlje)"
+
+#: functions.php:211
+#, fuzzy
+msgid "Located to the right of the Header"
+msgstr "Smješten desno od zaglavlja"
+
+#: functions.php:218
+#, fuzzy
+msgid "Menu Sidebar(Standart Header)"
+msgstr "Bočna traka izbornika (zaglavlje Standart)"
+
+#: functions.php:220
+#, fuzzy
+msgid "Located to the right after menu"
+msgstr "Smješten na desno nakon izbornika"
+
+#: functions.php:227
+#, fuzzy
+msgid "Front Page Sidebar"
+msgstr "Prednja strana stranice sidebar"
+
+#: functions.php:229
+#, fuzzy
+msgid "Appears on Front Page"
+msgstr "Pojavljuje se na naslovnoj stranici"
+
+#: functions.php:236
+#, fuzzy
+msgid "Shop Page Sidebar"
+msgstr "Bočna traka trgovine stranica"
+
+#: functions.php:238
+#, fuzzy
+msgid "Appears on Products page"
+msgstr "Pojavljuje se na stranici proizvodi"
+
+#: functions.php:245
+#, fuzzy
+msgid "Shop Page Special Filters Sidebar"
+msgstr "Traka posebnih filtara stranice trgovine"
+
+#: functions.php:247
+#, fuzzy
+msgid "Located at the top of the products page"
+msgstr "Nalazi se na vrhu stranice proizvodi"
+
+#: functions.php:254
+#, fuzzy
+msgid "Shop Bottom Sidebar #1"
+msgstr "Trgovina Bottom sidebar #1"
+
+#: functions.php:256 functions.php:265
+#, fuzzy
+msgid "Located at the bottom content shop"
+msgstr "Nalazi se na dnu sadržaja shop"
+
+#: functions.php:263
+#, fuzzy
+msgid "Shop Bottom Sidebar #2"
+msgstr "Trgovina Bottom sidebar #2"
+
+#: functions.php:272
+#, fuzzy
+msgid "Single Product Sidebar"
+msgstr "Jedna bočna traka proizvoda"
+
+#: functions.php:274
+#, fuzzy
+msgid "Appears on Single Products page"
+msgstr "Pojavljuje se na stranici single proizvodi"
+
+#: functions.php:282
+#, fuzzy
+msgid "Footer Sidebar Col#1"
+msgstr "Podnožje bočne trake Col # 1"
+
+#: functions.php:284 functions.php:293 functions.php:302 functions.php:311
+#: functions.php:320
+#, fuzzy
+msgid "Located in the footer of the site"
+msgstr "Smješten u podnožje stranice"
+
+#: functions.php:291
+#, fuzzy
+msgid "Footer Sidebar Col#2"
+msgstr "Podnožje bočne trake Col # 2"
+
+#: functions.php:300
+#, fuzzy
+msgid "Footer Sidebar Col#3"
+msgstr "Podnožje bočne trake Col # 3"
+
+#: functions.php:309
+#, fuzzy
+msgid "Footer Sidebar Col#4"
+msgstr "Podnožje bočne trake Col # 4"
+
+#: functions.php:318
+#, fuzzy
+msgid "Footer Bottom Sidebar"
+msgstr "Podnožje Bottom sidebar"
+
+#: functions.php:328 options.php:181
+#, fuzzy
+msgid "Brideliness Specials Sidebar #1"
+msgstr "Brideliness specials sidebar #1"
+
+#: functions.php:330 functions.php:341 functions.php:352
+#, fuzzy
+msgid ""
+"This sidebar can be placed in any part of your home page where Visual Composer "
+"plugin is used"
+msgstr ""
+"Ova sidebar može biti smještena u bilo kojem dijelu vaše početne stranice gdje "
+"se koristi vizualni skladatelj Plugin"
+
+#: functions.php:339 options.php:188
+#, fuzzy
+msgid "Brideliness Specials Sidebar #2"
+msgstr "Brideliness specials sidebar #2"
+
+#: functions.php:350 options.php:195
+#, fuzzy
+msgid "Brideliness Specials Sidebar #3"
+msgstr "Brideliness specials sidebar #3"
+
+#: functions.php:391 functions.php:392
+#, fuzzy
+msgid "Brideliness Theme Options"
+msgstr "Brideliness tema opcije"
+
+#: image.php:40
+#, fuzzy
+msgid "Date:&nbsp;"
+msgstr "Datum: & nbsp;"
+
+#: image.php:41
+#, fuzzy
+msgid "Comments:&nbsp;"
+msgstr "Komentari: & nbsp;"
+
+#: image.php:42
+#, fuzzy
+msgid "Source Image:&nbsp;"
+msgstr "Izvorna slika: & nb\\;"
+
+#: image.php:47
+#, fuzzy
+msgid "Link to full-size image"
+msgstr "Poveži s slikom pune veličine"
+
+#: image.php:48
+#, fuzzy
+msgid "Full resolution"
+msgstr "Potpuna razlučivost"
+
+#: image.php:58
+#, fuzzy
+msgid "<span class=\"arrow\">←</span></i>&nbsp;&nbsp;Previous Image"
+msgstr ""
+"< span klasa = \"strelica\" > ← </span> </i> & nb\\; & nbsp; prethodna slika"
+
+#: image.php:59
+#, fuzzy
+msgid ""
+"Next Image&nbsp;&nbsp;&nbsp;<span class=\"next-arrow\">&nbsp;&nbsp;<span class="
+"\"arrow\">→</span></span>"
+msgstr ""
+"Sljedeća slika & nbsp; &NBT; &nbsta; < span klasa = \"sljedeća strelica\" > "
+"&NBD; & nbsp; < span class = \"strelica\" > → </span> </span>"
+
+#: inc/brideliness-functions.php:35
+msgid "Continue Reading"
+msgstr "Saznaj više"
+
+#: inc/brideliness-functions.php:49
+#, fuzzy
+msgid "Shop Look"
+msgstr "Shop izgled"
+
+#: inc/brideliness-functions.php:78
+msgid "off"
+msgstr "isključeno"
+
+#: inc/brideliness-functions.php:79
+msgid "comments"
+msgstr "komentari"
+
+#: inc/brideliness-functions.php:86
+msgid ", "
+msgstr ", "
+
+#: inc/brideliness-functions.php:88
+#, fuzzy
+msgid "In "
+msgstr "In"
+
+#: inc/brideliness-functions.php:96
+#, fuzzy
+msgid "Tag:"
+msgstr "Oznaka"
+
+#: inc/brideliness-functions.php:104
+#, php-format
+msgid "View all posts by %s"
+msgstr "Pogledaj sve objave od %s"
+
+#: inc/brideliness-functions.php:296
+msgid "Pingback:"
+msgstr "Pingnatrag:"
+
+#: inc/brideliness-functions.php:301
+#, fuzzy
+msgid "Author's gravatar"
+msgstr "Author ' s Gravatar"
+
+#: inc/brideliness-functions.php:312
+#, fuzzy
+msgid "at "
+msgstr "U"
+
+#: inc/brideliness-functions.php:316
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka odobrenje."
+
+#: inc/brideliness-functions.php:355
+#, fuzzy
+msgid "Leave a Reply"
+msgstr "Napiši odgovor na %s"
+
+#: inc/brideliness-functions.php:356
+#, fuzzy, php-format
+msgid "Leave Your Reply to %s"
+msgstr "Ostavite odgovor na %s"
+
+#: inc/brideliness-functions.php:357
+msgid "Cancel Reply"
+msgstr "Odustani od odgovora"
+
+#: inc/brideliness-functions.php:358
+msgid "Submit"
+msgstr "Pošalji"
+
+#: inc/brideliness-functions.php:361 inc/brideliness-woo-modification.php:777
+#: widgets/brideliness-widget-collapsing-categories.php:53
+msgid "Name"
+msgstr "Naziv"
+
+#: inc/brideliness-functions.php:365
+msgid "E-mail"
+msgstr "E-mail"
+
+#: inc/brideliness-functions.php:369
+msgid "Website"
+msgstr "Web stranica"
+
+#: inc/brideliness-functions.php:375
+#, fuzzy
+msgid "Comment "
+msgstr "1 komentar"
+
+#: inc/brideliness-functions.php:379
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Morate biti<a href=\"%s\">prijavljeni</a> da bi mogli da komentarišete."
+
+#: inc/brideliness-functions.php:384
+#, fuzzy
+msgid "Logged in as "
+msgstr "Prijavljen kao %s"
+
+#: inc/brideliness-functions.php:388
+msgid "Log out of this account"
+msgstr "Odjavi se sa ovog računa"
+
+#: inc/brideliness-functions.php:389
+#, fuzzy
+msgid "Log out?"
+msgstr "Odjaviti?"
+
+#: inc/brideliness-functions.php:392
+#, fuzzy
+msgid "Your email address will not be published. Required fields are marked"
+msgstr "Vaša adresa e-pošte neće biti objavljena. Obavezna polja su označena"
+
+#: inc/brideliness-functions.php:468
+#, fuzzy
+msgid ""
+"<span class=\"previous-arrow\"><span class=\"arrow\">&larr;</span>previous</"
+"span>"
+msgstr ""
+"< span klasa = \"prethodna strelica\" > < span klasa = \"strelica\" > & Larr; "
+"</span> Previous </span>"
+
+#: inc/brideliness-functions.php:478
+#, fuzzy
+msgid "<span class=\"next-arrow\">next<span class=\"arrow\">&rarr;</span></span>"
+msgstr ""
+"< span klasa = \"sljedeća strelica\" > Next < span klasa = \"strelica\" > & "
+"Rarr; </span> </span>"
+
+#: inc/brideliness-functions.php:502
+#, fuzzy
+msgid "Back To Top"
+msgstr "Natrag na vrh"
+
+#: inc/brideliness-functions.php:513
+#, fuzzy
+msgid "Portfolio Filters"
+msgstr "Portfolio filtri"
+
+#: inc/brideliness-functions.php:516
+#, fuzzy
+msgid "Used only for Portfolio and Gallery Pages Isotope filtering"
+msgstr "Upotrebljava se samo za filtriranje izotop stranica portfelja i galerije"
+
+#: inc/brideliness-functions.php:547
+#, fuzzy
+msgid "Description for this field"
+msgstr "Opis ovog polja"
+
+#: inc/brideliness-functions.php:548
+#, fuzzy
+msgid "Description here"
+msgstr "Opis ovdje"
+
+#: inc/brideliness-functions.php:1119
+#, fuzzy
+msgid "Need Help?"
+msgstr "Trebaš pomoć?"
+
+#: inc/brideliness-functions.php:1121
+#, fuzzy
+msgid ""
+"Please, create ticket at <a href=\"https://themeszone.freshdesk.com\" target="
+"\"_blank\">https://themeszone.freshdesk.com</a> to get help with the theme."
+msgstr ""
+"Ugoditi, stvoriti karta at < a href = \"https://themeszone.freshdesk.com\" "
+"cilj = \"_ blank\" > https://themeszone.freshdesk.com </a> da biste dobili "
+"pomoć s temom."
+
+#: inc/brideliness-functions.php:1122
+#, fuzzy
+msgid ""
+"Our support team will be glad to answer your questions regarding theme usage. "
+"We also provide paid customization and paid theme installation services. "
+"Please contact support on this matter!"
+msgstr ""
+"Naš tim za podršku će rado odgovoriti na vaša pitanja vezana uz korištenje "
+"teme. Također pružamo plaćeni prilagodbe i plaćeni temu instalacije usluge. "
+"Molimo kontaktirajte podršku na ovom pitanju!"
+
+#: inc/brideliness-functions.php:1123
+#, fuzzy
+msgid ""
+"Please, be sure to read the online version of this theme's documentation, it "
+"contains answers to many questions people usually ask."
+msgstr ""
+"Molimo, svakako pročitajte online verziju dokumentacije ove teme, ona sadrži "
+"odgovore na mnoga pitanja ljudi obično pitaju."
+
+#: inc/brideliness-functions.php:1126
+#, fuzzy
+msgid "Read Theme Documentation"
+msgstr "Pročitaj dokumentaciju o temi"
+
+#: inc/brideliness-functions.php:1126
+#, fuzzy
+msgid "Theme Documentation"
+msgstr "Tema dokumentacija"
+
+#: inc/brideliness-functions.php:1128
+#, fuzzy
+msgid "Create Support Ticket"
+msgstr "Stvori podršku ulaznica"
+
+#: inc/brideliness-functions.php:1128
+#, fuzzy
+msgid "Support"
+msgstr "Posjetite premium korisničku podršku"
+
+#: inc/brideliness-functions.php:1210 inc/brideliness-functions.php:1216
+#, fuzzy
+msgid "Brideliness Style"
+msgstr "Brideliness stil"
+
+#: inc/brideliness-google-fonts.php:37
+msgctxt " font: on or off"
+msgid "on"
+msgstr "na"
+
+#: inc/brideliness-google-fonts.php:43
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "na"
+
+#: inc/brideliness-google-fonts.php:52
+#, fuzzy
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "Ne-podskup"
+
+#: inc/brideliness-infinite-blog.php:46
+#, fuzzy
+msgid "Loading..."
+msgstr "Učitavanje neuspjelo"
+
+#: inc/brideliness-post-like.php:209
+#, fuzzy
+msgid "You Like:"
+msgstr "Ako vam se sviđa %1$s ostavite %2$s ocjenu. Unaprijed hvala!"
+
+#: inc/brideliness-post-like.php:223
+#, fuzzy
+msgid "Nothing yet"
+msgstr "Ništa još"
+
+#: inc/brideliness-post-like.php:237
+#, fuzzy, php-format
+msgid "%d <span>like</span>"
+msgid_plural "%d<span> likes</span>"
+msgstr[0] "% d <span> kao </span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/brideliness-self-install.php:334 inc/brideliness-self-install.php:3979
+msgid "Install Required Plugins"
+msgstr "Instalirajte potrebne dodatke"
+
+#: inc/brideliness-self-install.php:335 inc/brideliness-self-install.php:3980
+msgid "Install Plugins"
+msgstr "Instalirajte dodatke"
+
+#. translators: %s: plugin name.
+#: inc/brideliness-self-install.php:337 inc/brideliness-self-install.php:3982
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instaliranje dodatka: %s"
+
+#. translators: %s: plugin name.
+#: inc/brideliness-self-install.php:339 inc/brideliness-self-install.php:3984
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Ažuriranje dodatka: %s"
+
+#: inc/brideliness-self-install.php:340 inc/brideliness-self-install.php:3985
+msgid "Something went wrong with the plugin API."
+msgstr "Nešto je pošlo krivo sa API-jem dodataka."
+
+#. translators: 1: plugin name(s).
+#: inc/brideliness-self-install.php:343 inc/brideliness-self-install.php:3988
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ova tema zahtijeva slijedeći dodatak: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/brideliness-self-install.php:349 inc/brideliness-self-install.php:3994
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ova tema predlaže slijedeći dodatak: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/brideliness-self-install.php:355 inc/brideliness-self-install.php:4000
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Ovaj dodatak mora biti ažuriran kako bi omogućio maksimalnu kompatibilnost sa "
+"ovom temom: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/brideliness-self-install.php:361 inc/brideliness-self-install.php:4006
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Postoji novo ažuriranje za: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/brideliness-self-install.php:367 inc/brideliness-self-install.php:4012
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Sljedeći obavezni dodatak trenutno nije aktivan: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name(s).
+#: inc/brideliness-self-install.php:373 inc/brideliness-self-install.php:4018
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Preporučeni dodatak je trenutno neaktivan: %1$s."
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/brideliness-self-install.php:378 inc/brideliness-self-install.php:4023
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Započni instaliranje dodatka"
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/brideliness-self-install.php:383 inc/brideliness-self-install.php:4028
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Započni ažuriranje dodatka"
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/brideliness-self-install.php:388 inc/brideliness-self-install.php:4033
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Započni aktivaciju dodatka"
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/brideliness-self-install.php:392 inc/brideliness-self-install.php:4037
+msgid "Return to Required Plugins Installer"
+msgstr "Vrati se na instalaciju potrebnih dodataka"
+
+#: inc/brideliness-self-install.php:393 inc/brideliness-self-install.php:912
+#: inc/brideliness-self-install.php:2618 inc/brideliness-self-install.php:3665
+msgid "Return to the Dashboard"
+msgstr "Povratak na nadzornu ploču"
+
+#: inc/brideliness-self-install.php:394 inc/brideliness-self-install.php:3244
+#: inc/brideliness-self-install.php:4038
+msgid "Plugin activated successfully."
+msgstr "Dodatak je uspješno aktiviran."
+
+#: inc/brideliness-self-install.php:395 inc/brideliness-self-install.php:3037
+#: inc/brideliness-self-install.php:4039
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Sljedeći dodatak uspješno je aktiviran:"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: plugin name.
+#: inc/brideliness-self-install.php:397 inc/brideliness-self-install.php:4041
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Aktivnosti nisu potrebne. Dodatak %1$s je već aktivan."
+
+#. translators: 1: plugin name.
+#: inc/brideliness-self-install.php:399 inc/brideliness-self-install.php:4043
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+
+#. translators: 1: dashboard link.
+#: inc/brideliness-self-install.php:401 inc/brideliness-self-install.php:4045
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Svi dodaci su instalirani i uspješno aktivirani. %1$s"
+
+#: inc/brideliness-self-install.php:402 inc/brideliness-self-install.php:4046
+#, fuzzy
+msgid "Dismiss this notice"
+msgstr "Zanemari ovu obavijest."
+
+#: inc/brideliness-self-install.php:403 inc/brideliness-self-install.php:4047
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Postoje jedan ili više potrebnih ili preporučenih dodataka za instaliranje, "
+"ažuriranje ili aktivaciju."
+
+#: inc/brideliness-self-install.php:404 inc/brideliness-self-install.php:4048
+msgid "Please contact the administrator of this site for help."
+msgstr "Kontaktirajte administratora stranice za pomoć."
+
+#: inc/brideliness-self-install.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Potrebno je ažuriranje ovog dodatka za kompatibilnost sa temom."
+
+#: inc/brideliness-self-install.php:608
+msgid "Update Required"
+msgstr "Potrebno ažuriranje"
+
+#: inc/brideliness-self-install.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+
+#: inc/brideliness-self-install.php:1019 inc/brideliness-self-install.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Molimo vas kontaktirajte autora dodatka i tražite ih da zapakiraju dodatak "
+"prema WordPressovim pravilima."
+
+#: inc/brideliness-self-install.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Paket udaljenog dodataka sastoji se od više od jedne datoteke, no datoteke "
+"nisu zapakirane u mapu."
+
+#: inc/brideliness-self-install.php:1206 inc/brideliness-self-install.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "i"
+
+#. translators: %s: version number
+#: inc/brideliness-self-install.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/brideliness-self-install.php:2358
+msgid "Required"
+msgstr "Obavezno"
+
+#: inc/brideliness-self-install.php:2361
+msgid "Recommended"
+msgstr "Preporučeno"
+
+#: inc/brideliness-self-install.php:2377
+msgid "WordPress Repository"
+msgstr "WordPress repozitorij"
+
+#: inc/brideliness-self-install.php:2380
+msgid "External Source"
+msgstr "Vanjski izvor"
+
+#: inc/brideliness-self-install.php:2383
+msgid "Pre-Packaged"
+msgstr "Pred-pakirano"
+
+#: inc/brideliness-self-install.php:2400
+#, fuzzy
+msgid "Not Installed"
+msgstr "Instalirano"
+
+#: inc/brideliness-self-install.php:2404
+msgid "Installed But Not Activated"
+msgstr "Instaliran ali nije aktiviran"
+
+#: inc/brideliness-self-install.php:2406
+msgid "Active"
+msgstr "Aktivan"
+
+#: inc/brideliness-self-install.php:2412
+msgid "Required Update not Available"
+msgstr "Potrebna nadogradnja nije dostupna"
+
+#: inc/brideliness-self-install.php:2415
+msgid "Requires Update"
+msgstr "Zahtjeva ažuriranje"
+
+#: inc/brideliness-self-install.php:2418
+msgid "Update recommended"
+msgstr "Nadogradnja se preporučuje"
+
+#. translators: 1: install status, 2: update status
+#: inc/brideliness-self-install.php:2427
+#, fuzzy, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s (%2$s)"
+
+#. translators: 1: number of plugins.
+#: inc/brideliness-self-install.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/brideliness-self-install.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Instalacija <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/brideliness-self-install.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Ažuriranje dostpuno <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: number of plugins.
+#: inc/brideliness-self-install.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Aktiviranje <span class=\"count\">(%s)</span>"
+msgstr[1] ""
+msgstr[2] ""
+
+#: inc/brideliness-self-install.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "nepoznato"
+
+#: inc/brideliness-self-install.php:2575
+#, fuzzy
+msgid "Installed version:"
+msgstr "Instalirana verzija trenutno aktivne teme."
+
+#: inc/brideliness-self-install.php:2583
+msgid "Minimum required version:"
+msgstr "Minimalna verzija potrebna:"
+
+#: inc/brideliness-self-install.php:2595
+msgid "Available version:"
+msgstr "Dostupna verzija:"
+
+#: inc/brideliness-self-install.php:2618
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: inc/brideliness-self-install.php:2632
+msgid "Plugin"
+msgstr "Dodatak"
+
+#: inc/brideliness-self-install.php:2633
+msgid "Source"
+msgstr "Izvor"
+
+#: inc/brideliness-self-install.php:2634
+msgid "Type"
+msgstr "Vrsta"
+
+#: inc/brideliness-self-install.php:2638
+msgid "Version"
+msgstr "Verzija"
+
+#: inc/brideliness-self-install.php:2639
+msgid "Status"
+msgstr "Status"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/brideliness-self-install.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr "Instaliraj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/brideliness-self-install.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr "Ažuriraj %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/brideliness-self-install.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviraj %2$s"
+
+#: inc/brideliness-self-install.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr "Nadogradi poruku od autora ovog dodatka:"
+
+#: inc/brideliness-self-install.php:2802
+#, fuzzy
+msgid "Install"
+msgstr "Instalirajte potrebne dodatke"
+
+#: inc/brideliness-self-install.php:2808
+msgid "Update"
+msgstr "Ažuriraj"
+
+#: inc/brideliness-self-install.php:2811
+msgid "Activate"
+msgstr "Aktiviraj"
+
+#: inc/brideliness-self-install.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: inc/brideliness-self-install.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: inc/brideliness-self-install.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: inc/brideliness-self-install.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: inc/brideliness-self-install.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: inc/brideliness-self-install.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: inc/brideliness-self-install.php:3243
+msgid "Plugin activation failed."
+msgstr "Instaliranje dodataka nije uspijelo."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/brideliness-self-install.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/brideliness-self-install.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Dogodila se greška prilikom instaliranja %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/brideliness-self-install.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instaliranje %1$s nije uspijelo."
+
+#: inc/brideliness-self-install.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: inc/brideliness-self-install.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: inc/brideliness-self-install.php:3594 inc/brideliness-self-install.php:3602
+msgid "Show Details"
+msgstr "Prikaži detalje"
+
+#: inc/brideliness-self-install.php:3594 inc/brideliness-self-install.php:3602
+msgid "Hide Details"
+msgstr "Sakrij detalje"
+
+#: inc/brideliness-self-install.php:3595
+msgid "All installations and activations have been completed."
+msgstr "Sve instalacije su uspješno završene."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/brideliness-self-install.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/brideliness-self-install.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: inc/brideliness-self-install.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "Instaliranje %1$s uspješno završeno."
+
+#: inc/brideliness-self-install.php:3603
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/brideliness-self-install.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: inc/brideliness-self-install.php:3874
+#, fuzzy
+msgid "Themes Zone Add Visual Composer Custom Elements"
+msgstr "Teme zona Dodaj Visual skladatelj Custom Elements"
+
+#: inc/brideliness-self-install.php:3886
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/brideliness-self-install.php:3892
+msgid "Contact Form 7"
+msgstr "Kontakt obrazac 7"
+
+#: inc/brideliness-self-install.php:3898
+#, fuzzy
+msgid "Max Mega Menu"
+msgstr "Mega izbornik Max"
+
+#: inc/brideliness-self-install.php:3904
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/brideliness-self-install.php:3910
+#, fuzzy
+msgid "Google Maps Easy"
+msgstr "Google Maps Easy"
+
+#: inc/brideliness-self-install.php:3916
+#, fuzzy
+msgid "Wysija Newsletters"
+msgstr "Wysija Newsletteri"
+
+#: inc/brideliness-self-install.php:3922
+#, fuzzy
+msgid "YITH WooCommerce Compare"
+msgstr "YITH WooCommerce usporediti"
+
+#: inc/brideliness-self-install.php:3928
+#, fuzzy
+msgid "YITH WooCommerce Quick View"
+msgstr "YITH WooCommerce brzi prikaz"
+
+#: inc/brideliness-self-install.php:3934
+msgid "YITH WooCommerce Wishlist"
+msgstr "YITH WooCommerce Lista želja"
+
+#: inc/brideliness-self-install.php:3940
+#, fuzzy
+msgid "Regenerate Thumbnails"
+msgstr ""
+"Nakon objavljivanja promjena, nove veličine slika neće se prikazivati ​​dok ne "
+"<a href=\"%s\" target=\"_blank\">Obnovite minijature</a>."
+
+#: inc/brideliness-self-install.php:3946
+#, fuzzy
+msgid "Envato WordPress Toolkit"
+msgstr "Envato WordPress Toolkit"
+
+#: inc/brideliness-self-install.php:3972
+#, fuzzy
+msgid ""
+"If you are about to install the plugins on your existing WordPress site then "
+"please back up your site, if it is a new installation just ignore the message."
+msgstr ""
+"Ako ste o to uvesti koga u službu čep na svoj postojeći WordPress položaj onda "
+"ugoditi leđa gore tvoj položaj, ako je nova instalacija samo ignorirati poruku."
+
+#: inc/brideliness-self-install.php:3974
+#, fuzzy
+msgid ""
+"Due to high volume of piracy of our themes please contact our support with "
+"your purchase code to get your copy of Revolution Slider and Visual Composer."
+msgstr ""
+"Zbog visokog volumena piratstva naših tema molimo kontaktirajte našu podršku "
+"sa svojim kôd za kupnju da biste dobili svoj primjerak revolucije Slider i "
+"vizualni skladatelj."
+
+#: inc/brideliness-share-buttons.php:80
+#, fuzzy
+msgid "Check this!"
+msgstr "Plaćanje čekom"
+
+#: inc/brideliness-share-buttons.php:81
+#, fuzzy
+msgid "See more at: "
+msgstr "Pogledajte više na:"
+
+#: inc/brideliness-theme-layouts.php:9
+#, fuzzy
+msgid "Layout Settings"
+msgstr "Postavke izgleda"
+
+#: inc/brideliness-theme-layouts.php:21
+#, fuzzy
+msgid "Specify a custom page layout for this content."
+msgstr "Navedite prilagođeni izgled stranice za ovaj sadržaj."
+
+#: inc/brideliness-theme-layouts.php:23
+#, fuzzy
+msgid "Default Set in Brideliness Theme Options"
+msgstr "Default set u Brideliness temu opcije"
+
+#: inc/brideliness-theme-layouts.php:78
+#, fuzzy
+msgid "Specify some layouts first!"
+msgstr "Prvo odredite neke izglede!"
+
+#: inc/brideliness-woo-modification.php:69
+msgid "Show"
+msgstr "Prikaži"
+
+#: inc/brideliness-woo-modification.php:75
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: inc/brideliness-woo-modification.php:86 page-templates/gallery.php:113
+msgid "All"
+msgstr "Sve"
+
+#: inc/brideliness-woo-modification.php:121
+msgid "Date Added"
+msgstr "Datum kreiranja"
+
+#: inc/brideliness-woo-modification.php:175
+#, fuzzy
+msgid "Click to view all special products"
+msgstr "Kliknite da biste prikazali sve posebne proizvode"
+
+#: inc/brideliness-woo-modification.php:261 part-templates/pagination.php:33
+msgid "Previous"
+msgstr "Prethodno"
+
+#: inc/brideliness-woo-modification.php:262 part-templates/pagination.php:34
+msgid "Next"
+msgstr "Slijedeće"
+
+#: inc/brideliness-woo-modification.php:279
+#: inc/brideliness-woo-modification.php:282
+#: inc/brideliness-woo-modification.php:285
+#: inc/brideliness-woo-modification.php:288
+#, fuzzy
+msgid "Add to Bag"
+msgstr "Dodaj u vrećicu"
+
+#: inc/brideliness-woo-modification.php:304
+#, fuzzy
+msgid "Grid View"
+msgstr "Prikaz rešetke"
+
+#: inc/brideliness-woo-modification.php:306
+#, fuzzy
+msgid "List View"
+msgstr "Prikaz popisa"
+
+#: inc/brideliness-woo-modification.php:340
+#, fuzzy
+msgid "Sort by"
+msgstr "Sortiraj po:"
+
+#: inc/brideliness-woo-modification.php:430
+#: widgets/brideliness-widget-recent-posts.php:189
+#: widgets/brideliness-widget-recent-posts.php:197
+#, fuzzy
+msgid "Click to learn more about"
+msgstr "Kliknite da biste saznali više o"
+
+#: inc/brideliness-woo-modification.php:483
+msgid "Sale!"
+msgstr "Akcija!"
+
+#: inc/brideliness-woo-modification.php:510
+#, fuzzy
+msgid "Share this look with your friends ..."
+msgstr "Podijelite ovaj izgled sa svojim prijateljima..."
+
+#: inc/brideliness-woo-modification.php:628
+#, fuzzy
+msgid "Others People Think"
+msgstr "Drugi ljudi misle"
+
+#: inc/brideliness-woo-modification.php:685
+msgid "Post navigation"
+msgstr "Navigacija objava"
+
+#: inc/brideliness-woo-modification.php:690
+#, fuzzy
+msgid "Previous Product"
+msgstr "Prethodni proizvod"
+
+#: inc/brideliness-woo-modification.php:698
+#, fuzzy
+msgid "Next Product"
+msgstr "Sljedeći proizvod"
+
+#: inc/brideliness-woo-modification.php:735
+#, fuzzy
+msgid "<span>Add a review</span>"
+msgstr "<span> Dodaj recenziju </span>"
+
+#: inc/brideliness-woo-modification.php:738
+#, fuzzy, php-format
+msgid "<span>Be the first to review &ldquo;%s&rdquo;</span>"
+msgstr "<span> biti prvi koji će pregledati \" %s\" </span>"
+
+#: inc/brideliness-woo-modification.php:782
+#, fuzzy
+msgid "Last Name"
+msgstr "Prezime"
+
+#: inc/brideliness-woo-modification.php:788
+msgid "Company"
+msgstr "Tvrtka"
+
+#: inc/brideliness-woo-modification.php:793
+msgid "Country"
+msgstr "Zemlja"
+
+#: inc/brideliness-woo-modification.php:798
+msgid "Address"
+msgstr "Adresa"
+
+#: inc/brideliness-woo-modification.php:799
+msgctxt "placeholder"
+msgid "Street address"
+msgstr "Ulica"
+
+#: inc/brideliness-woo-modification.php:804
+#, fuzzy
+msgid "Additional address info"
+msgstr "Dodatne informacije o adresi"
+
+#: inc/brideliness-woo-modification.php:805
+msgctxt "placeholder"
+msgid "Apartment, suite, unit etc. (optional)"
+msgstr "Stan, apartman, kat, itd. (nije obavezno)"
+
+#: inc/brideliness-woo-modification.php:811
+#: inc/brideliness-woo-modification.php:812
+msgid "Town / City"
+msgstr "Grad"
+
+#: inc/brideliness-woo-modification.php:818
+#: inc/brideliness-woo-modification.php:819
+msgid "State / County"
+msgstr "Regija"
+
+#: inc/brideliness-woo-modification.php:825
+#: inc/brideliness-woo-modification.php:826
+#, fuzzy
+msgid "Postcode / Zip"
+msgstr "Poštanski broj"
+
+#: inc/brideliness-woo-modification.php:840
+#, fuzzy
+msgid "Shipping address"
+msgstr "Adresa za dostavu"
+
+#: inc/brideliness-woo-modification.php:848
+#, fuzzy
+msgid "Payment Methods"
+msgstr "Metode plaćanja"
+
+#: inc/brideliness-woo-modification.php:871
+#, fuzzy
+msgid "Continue Shopping"
+msgstr "Nastavite kupnju"
+
+#: inc/brideliness-woo-modification.php:905
+#, fuzzy
+msgid "Size Guide"
+msgstr "Vodič za veličinu"
+
+#: index.php:41
+#, fuzzy
+msgid "Show More Posts"
+msgstr "Prikaži više postova"
+
+#: options.php:42 options.php:624
+msgid "On"
+msgstr "Na"
+
+#: options.php:43 options.php:625
+msgid "Off"
+msgstr "Isključeno"
+
+#: options.php:93
+#, fuzzy
+msgid "Site Options"
+msgstr "Mogućnosti web-mjesta"
+
+#: options.php:99
+msgid "Site Layout"
+msgstr "Izgled stranice"
+
+#: options.php:104
+#, fuzzy
+msgid "Select layout for site"
+msgstr "Odabir rasporeda za web-mjesto"
+
+#: options.php:109
+msgid "Wide"
+msgstr "Široko"
+
+#: options.php:110
+msgid "Boxed"
+msgstr "Uokvireno"
+
+#: options.php:115
+msgid "Extra Features"
+msgstr "Dodatne značajke"
+
+#: options.php:120
+#, fuzzy
+msgid "Enable Page Title?"
+msgstr "Omogući naslov stranice?"
+
+#: options.php:121
+#, fuzzy
+msgid "Switch to Off if you don't want to use Page Title"
+msgstr "Prebacivanje na Isključeno ako ne želite koristiti naslov stranice"
+
+#: options.php:130
+#, fuzzy
+msgid "Background for page title"
+msgstr "Pozadina za naslov stranice"
+
+#: options.php:131 options.php:758
+#, fuzzy
+msgid "Add custom background color or image for page title"
+msgstr "Dodavanje prilagođene boje pozadine ili slike za naslov stranice"
+
+#: options.php:144
+#, fuzzy
+msgid "Enable Breadcrumbs for site?"
+msgstr "Omogućite breadcrumbs za stranice?"
+
+#: options.php:145
+#, fuzzy
+msgid "Switch to Off if you don't want to use breadcrumbs"
+msgstr "Prijeđite na Isključeno ako ne želite koristiti breadcrumbs"
+
+#: options.php:153
+#, fuzzy
+msgid "Enable Post like system for site?"
+msgstr "Ovlastiti pošta poput sistem za položaj?"
+
+#: options.php:154
+#, fuzzy
+msgid ""
+"Anabling post like functionality on your site + Extra Widgets (Popular Posts, "
+"User Likes)"
+msgstr ""
+"Anabling post kao funkcionalnost na vašoj web lokaciji + extra widgets "
+"(Popularni postovi, korisnik voli)"
+
+#: options.php:162
+#, fuzzy
+msgid "Enable Scroll to Top button for site?"
+msgstr "Ovlastiti svitak to gornjište gumb za položaj?"
+
+#: options.php:163
+#, fuzzy
+msgid "If On appears in bottom center of site"
+msgstr "Ako se pojavi u donjem centru web-mjesta"
+
+#: options.php:171
+#, fuzzy
+msgid "Enable single image page share buttons output?"
+msgstr "Omogući dijeljenje gumba jedne stranice s jednom slikom?"
+
+#: options.php:172
+#, fuzzy
+msgid "Switch to Off if you don't want to use share buttons on single image page"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti gumbe za zajedničko "
+"korištenje na jednoj stranici slike"
+
+#: options.php:180
+#, fuzzy
+msgid "Enable Brideliness Specials Sidebar #1 ?"
+msgstr "Omogući Brideliness specials sidebar #1?"
+
+#: options.php:187
+#, fuzzy
+msgid "Enable Brideliness Specials Sidebar #2 ?"
+msgstr "Omogući Brideliness specials sidebar #2?"
+
+#: options.php:194
+#, fuzzy
+msgid "Enable Brideliness Specials Sidebar #3 ?"
+msgstr "Omogući Brideliness specials sidebar #3?"
+
+#: options.php:202
+msgid "404 Page"
+msgstr "404 stranica"
+
+#: options.php:207
+#, fuzzy
+msgid "Background for 404 Page"
+msgstr "Pozadina za 404 stranica"
+
+#: options.php:208
+#, fuzzy
+msgid "Add custom background image for Page 404"
+msgstr "Dodaj prilagođenu pozadinsku sliku za stranicu 404"
+
+#: options.php:216
+#, fuzzy
+msgid "Header Options"
+msgstr "Mogućnosti zaglavlja"
+
+#: options.php:222
+#, fuzzy
+msgid "Background for header"
+msgstr "Pozadina za zaglavlje"
+
+#: options.php:223
+#, fuzzy
+msgid "Add custom background color or image for header section."
+msgstr "Dodajte prilagođenu boju pozadine ili sliku za sekciju zaglavlja."
+
+#: options.php:230
+#, fuzzy
+msgid "Top Panel Options"
+msgstr "Gornje mogućnosti panela"
+
+#: options.php:235
+#, fuzzy
+msgid "Enable header's top panel?"
+msgstr "Omogući gornju ploču zaglavlja?"
+
+#: options.php:236
+#, fuzzy
+msgid "Switch to Off if you don't want to use header top panel"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti zaglavlje gornje ploče"
+
+#: options.php:244
+#, fuzzy
+msgid "Custom background color for top panel"
+msgstr "Prilagođena boja pozadine za gornju ploču"
+
+#: options.php:245
+#, fuzzy
+msgid "Check to specify custom background color for top panel"
+msgstr "Provjera za određivanje prilagođene boje pozadine za gornju ploču"
+
+#: options.php:253
+#, fuzzy
+msgid "Background color for header top panel"
+msgstr "Boja pozadine za zaglavlje gornje ploče"
+
+#: options.php:261
+#, fuzzy
+msgid "Enable header's top panel border bottom ?"
+msgstr "Omogući gornji obrub gornje ploče zaglavlja?"
+
+#: options.php:262
+#, fuzzy
+msgid "Switch to Off if you don't want to use header top panel border bottom"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti gornji obrub gornje ploče"
+
+#: options.php:270
+msgid "Enter phone number"
+msgstr "Unesite telefonski broj"
+
+#: options.php:271 options.php:279 options.php:287
+#, fuzzy
+msgid "Info appears at center of headers top panel"
+msgstr "Podaci se pojavljuju u centru zaglavlja gornje ploče"
+
+#: options.php:278
+#, fuzzy
+msgid "Enter mail"
+msgstr "Unesite mail"
+
+#: options.php:286
+#, fuzzy
+msgid "Enter info contents"
+msgstr "Unesite info sadržaj"
+
+#: options.php:294
+#, fuzzy
+msgid "Navigation Options"
+msgstr "Mogućnosti navigacije"
+
+#: options.php:299
+msgid "Enable Sticky Menu"
+msgstr "Omogući ljepljivi meni"
+
+#: options.php:300
+#, fuzzy
+msgid "Switch to Off if you don't want to use Sticky Menu"
+msgstr "Isključite se ako ne želite koristiti ljepljivi izbornik"
+
+#: options.php:308
+msgid "Menu Background"
+msgstr "Pozadina izbornika"
+
+#: options.php:309
+#, fuzzy
+msgid "Select Menu Background"
+msgstr "Odabir pozadine izbornika"
+
+#: options.php:316
+#, fuzzy
+msgid "Enable header's bottom Box Shadow"
+msgstr "Omogući sjenčanje zaglavlja donjeg okvira"
+
+#: options.php:317
+#, fuzzy
+msgid "Switch to Off if you don't want to use header's bottom box-shadow"
+msgstr ""
+"Prebacite se na Isključeno ako ne želite koristiti header-ov donji okvir-sjena"
+
+#: options.php:325
+#, fuzzy
+msgid "Select Header for site"
+msgstr "Odaberi zaglavlje za web-mjesto"
+
+#: options.php:330
+#, fuzzy
+msgid "Fixed Header on Front Page"
+msgstr "Fiksni zaglavlje na naslovnoj stranici"
+
+#: options.php:331
+#, fuzzy
+msgid "Standart Header"
+msgstr "Zaglavlje Standart"
+
+#: options.php:336
+#, fuzzy
+msgid "Upload image for logo"
+msgstr "Upload slika za logotip"
+
+#: options.php:343
+#, fuzzy
+msgid "Select position for logo Fixed Header"
+msgstr "Odaberi položaj za fiksni zaglavlje"
+
+#: options.php:348 options.php:360
+msgid "Left"
+msgstr "Lijevo"
+
+#: options.php:349 options.php:361
+msgid "Center"
+msgstr "Centar"
+
+#: options.php:350 options.php:362
+msgid "Right"
+msgstr "Desno"
+
+#: options.php:355
+#, fuzzy
+msgid "Select position for logo Standart Header"
+msgstr "Odabir položaja za zaglavlje Standart logotipa"
+
+#: options.php:367
+#, fuzzy
+msgid "Color for top item menu on other page(Fixed Header)"
+msgstr "Boja za izbornik gornje stavke na drugoj stranici (fiksni zaglavlje)"
+
+#: options.php:374
+#, fuzzy
+msgid "Color for top item menu on other page on hover(Fixed Header)"
+msgstr ""
+"Boja za vrh stavke izbornika na drugoj stranici na hover (fiksni zaglavlje)"
+
+#: options.php:381
+#, fuzzy
+msgid "Add Border Top for Menu(Standart Header)"
+msgstr "Dodaj vrh obruba za izbornik (zaglavlje Standart)"
+
+#: options.php:382 options.php:390
+#, fuzzy
+msgid "Check to Add Border Top for Menu"
+msgstr "Provjera dodavanja gornjeg obruba za izbornik"
+
+#: options.php:389
+#, fuzzy
+msgid "Add Border Left for Menu Item(Standart Header)"
+msgstr "Dodaj obrub lijevo za stavku izbornika (zaglavlje Standart)"
+
+#: options.php:398
+msgid "Footer Options"
+msgstr "Opcije podnožja"
+
+#: options.php:404
+#, fuzzy
+msgid "Background for footer"
+msgstr "Pozadina za podnožje"
+
+#: options.php:405
+#, fuzzy
+msgid "Add custom background color or image for footer section."
+msgstr "Dodajte prilagođenu boju pozadine ili sliku za podnožje."
+
+#: options.php:412
+#, fuzzy
+msgid "Background for bottom footer"
+msgstr "Pozadina za dno podnožje"
+
+#: options.php:413
+#, fuzzy
+msgid "Add custom background color or image for footer bottom section."
+msgstr "Dodaj prilagođenu boju pozadine ili sliku za podnožje Donja sekcija."
+
+#: options.php:420
+#, fuzzy
+msgid "Enter sites copyright"
+msgstr "Unesite web-mjesta Copyright"
+
+#: options.php:421
+#, fuzzy
+msgid "Enter copyright (appears at the bottom of site)"
+msgstr "Unesite autorsko pravo (pojavljuje se na dnu stranice)"
+
+#: options.php:429
+#, fuzzy
+msgid "Layout Options"
+msgstr "Mogućnosti rasporeda"
+
+#: options.php:435
+#, fuzzy
+msgid "Set Front page layout"
+msgstr "Postavi izgled naslovnice"
+
+#: options.php:436
+#, fuzzy
+msgid "Specify the location of sidebars about the content on the front page"
+msgstr "Navedite mjesto sidebars o sadržaju na naslovnoj stranici"
+
+#: options.php:444
+#, fuzzy
+msgid "Set global layout for Pages"
+msgstr "Postavljanje globalnog rasporeda za stranice"
+
+#: options.php:445
+#, fuzzy
+msgid ""
+"Specify the location of sidebars about the content on the Pages of your site"
+msgstr "Navedite mjesto sidebars o sadržaju na stranicama web-mjesta"
+
+#: options.php:453
+#, fuzzy
+msgid "Set Blog page layout"
+msgstr "Postavi izgled stranice bloga"
+
+#: options.php:454
+#, fuzzy
+msgid "Specify the location of sidebars about the content on the Blog page"
+msgstr "Navedite mjesto sidebars o sadržaju na blogu stranici"
+
+#: options.php:462
+#, fuzzy
+msgid "Set Single post view layout"
+msgstr "Postavljanje izgleda jednog knjiženja prikaza"
+
+#: options.php:463
+#, fuzzy
+msgid "Specify the location of sidebars about the content on the single posts"
+msgstr "Navedite mjesto sidebars o sadržaju na single Posts"
+
+#: options.php:471
+#, fuzzy
+msgid "Set Products page (Shop page) layout"
+msgstr "Postavljanje stranice proizvoda (trgovina stranica) izgled"
+
+#: options.php:472
+#, fuzzy
+msgid "Specify the location of sidebars about the content on the products page"
+msgstr "Navedite mjesto sidebars o sadržaju na stranici proizvodi"
+
+#: options.php:480
+#, fuzzy
+msgid "Set Single Product pages layout"
+msgstr "Postavi izgled jedne stranice proizvoda"
+
+#: options.php:481
+#, fuzzy
+msgid ""
+"Specify the location of sidebars about the content on the single product pages"
+msgstr "Navedite mjesto sidebars o sadržaju na jednostrukim stranicama proizvoda"
+
+#: options.php:491
+#, fuzzy
+msgid "Blog Options"
+msgstr "Blog opcije"
+
+#: options.php:497
+#, fuzzy
+msgid "Enter text for Read More button"
+msgstr "Unesite tekst za gumb Pročitaj više"
+
+#: options.php:504
+#, fuzzy
+msgid "Enable blog share buttons output?"
+msgstr "Ovlastiti blog udio gumb izlaz?"
+
+#: options.php:505 options.php:583
+#, fuzzy
+msgid "Switch to Off if you don't want to use share buttons"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti gumbe zajedničkog korištenja"
+
+#: options.php:513
+#, fuzzy
+msgid "Select pagination view for blog page"
+msgstr "Odabir numeriranje prikaza za blog stranicu"
+
+#: options.php:518
+#, fuzzy
+msgid "Infinite blog"
+msgstr "Beskonačan blog"
+
+#: options.php:519 options.php:606
+#, fuzzy
+msgid "Numeric pagination"
+msgstr "Numerička numeriranje"
+
+#: options.php:524
+#, fuzzy
+msgid "Blog Layout Options"
+msgstr "Mogućnosti izgleda bloga"
+
+#: options.php:529
+#, fuzzy
+msgid "Select layout for blog"
+msgstr "Odaberi izgled za blog"
+
+#: options.php:535 options.php:715
+msgid "List"
+msgstr "Lista"
+
+#: options.php:536 options.php:714
+msgid "Grid"
+msgstr "Mreža"
+
+#: options.php:541
+#, fuzzy
+msgid "Select number of columns for Blog GRID layout or ISOTOPE layout"
+msgstr "Odabir broja stupaca za izgled rešetke bloga ili izgled izotopa"
+
+#: options.php:547
+msgid "2 Columns"
+msgstr "2 stupca"
+
+#: options.php:548
+msgid "3 Columns"
+msgstr "3 stupca"
+
+#: options.php:549
+msgid "4 Columns"
+msgstr "4 stupca"
+
+#: options.php:554
+#, fuzzy
+msgid "Post Type Gallery Options"
+msgstr "Mogućnosti galerije vrsta knjiženja"
+
+#: options.php:559
+#, fuzzy
+msgid "Carousel for Gallery posts on blog page"
+msgstr "Carousel za galeriju postova na blogu stranica"
+
+#: options.php:560
+#, fuzzy
+msgid "Switch to \"Off\" if you don’t want to show carousel for gallery posts"
+msgstr ""
+"Šiba to \"od\" Ukoliko dont ' ištanje to pokazivanje vrtuljak za Galerija pošta"
+
+#: options.php:568
+#, fuzzy
+msgid "Single Post Options"
+msgstr "Single post opcije"
+
+#: options.php:573
+#, fuzzy
+msgid "Enable single post Prev/Next navigation output?"
+msgstr "Ovlastiti sam post prev/Next navigacija output?"
+
+#: options.php:574
+#, fuzzy
+msgid "Switch to Off if you don't want to use single post navigation"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti Single post navigacija"
+
+#: options.php:582
+#, fuzzy
+msgid "Enable single post share buttons output?"
+msgstr "Ovlastiti sam pošta udio gumb izlaz?"
+
+#: options.php:591
+#, fuzzy
+msgid "Enable single post Related Posts output?"
+msgstr "Ovlastiti sam pošta povezivati se pošta izlaz?"
+
+#: options.php:592
+#, fuzzy
+msgid "Switch to Off if you don't want to show related posts"
+msgstr "Prebacivanje na Isključeno ako ne želite prikazati povezane postove"
+
+#: options.php:600
+#, fuzzy
+msgid "Select pagination type for comments"
+msgstr "Odabir vrste numeracije za komentare"
+
+#: options.php:605
+#, fuzzy
+msgid "Newer/Older pagination"
+msgstr "Noviji/stariji numeriranje"
+
+#: options.php:612
+#, fuzzy
+msgid "Store Options"
+msgstr "Mogućnosti spremišta"
+
+#: options.php:618
+#, fuzzy
+msgid "Enable Catalog Mode?"
+msgstr "Omogući način kataloga?"
+
+#: options.php:619
+#, fuzzy
+msgid ""
+"Switch to ON if you want to switch your shop into a catalog mode (no prices, "
+"no add to cart)"
+msgstr ""
+"Prebacite se na na ako želite prebaciti svoj dućan u katalog Mode (bez cijena, "
+"nema dodati u košaricu)"
+
+#: options.php:626
+#, fuzzy
+msgid "Catalog Mode With Price"
+msgstr "Način kataloga s cijenom"
+
+#: options.php:631
+#, fuzzy
+msgid "Sale badge text"
+msgstr "Prodaja značka tekst"
+
+#: options.php:632
+#, fuzzy
+msgid "Enter your sale badge text"
+msgstr "Unesite tekst značke za prodaju"
+
+#: options.php:640
+#, fuzzy
+msgid "Show number of products in the cart widget?"
+msgstr "Prikaži broj proizvoda u Cart widget?"
+
+#: options.php:641
+#, fuzzy
+msgid ""
+"Switch to ON if you want to show a a number of products currently in the cart "
+"widget"
+msgstr ""
+"Prebacite na na ako želite pokazati broj proizvoda trenutno u Cart widget"
+
+#: options.php:649
+#, fuzzy
+msgid "Show store Breadcrumbs?"
+msgstr "Show trgovina breadcrumbs?"
+
+#: options.php:650
+#, fuzzy
+msgid "Switch to Off if you don't want to use breadcrumbs on store page"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti breadcrumbs na stranici "
+"spremišta"
+
+#: options.php:658
+#, fuzzy
+msgid "Add special sidebar for filters on Store page?"
+msgstr "Dodajte posebnu bočnu traku za filtre na stranici spremišta?"
+
+#: options.php:659
+#, fuzzy
+msgid "Switch to Off if you don't want to use special sidebar on products page"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti posebnu sidebar na stranici "
+"proizvodi"
+
+#: options.php:667
+#, fuzzy
+msgid "Store Layout Options"
+msgstr "Mogućnosti rasporeda spremišta"
+
+#: options.php:672
+#, fuzzy
+msgid "Enter number of products to show on Store page"
+msgstr "Unesite broj proizvoda za prikazivanje na stranici spremišta"
+
+#: options.php:680
+#, fuzzy
+msgid "Select product quantity per row on Store page"
+msgstr "Odabir količine proizvoda po retku na stranici spremišta"
+
+#: options.php:685
+#, fuzzy
+msgid "3 Products"
+msgstr "3 proizvodi"
+
+#: options.php:686
+#, fuzzy
+msgid "4 Products"
+msgstr "4 proizvodi"
+
+#: options.php:691
+#, fuzzy
+msgid "Show Per Page Filter?"
+msgstr "Prikaz filtra po stranici?"
+
+#: options.php:692
+#, fuzzy
+msgid "Switch to Off if you don't want Per Page Filter"
+msgstr "Prebacivanje na Isključeno ako ne želite filtrirati po stranici"
+
+#: options.php:700
+#, fuzzy
+msgid "Show List/Grid products switcher?"
+msgstr "Prikaži popis/grid proizvodi Switcher?"
+
+#: options.php:701
+#, fuzzy
+msgid "Switch to Off if you don't want to use switcher on products page"
+msgstr ""
+"Šiba to od ukoliko dont ' ištanje korištenje Switcher na stvarajući stranica"
+
+#: options.php:709
+#, fuzzy
+msgid "Set default view for products (list or grid)"
+msgstr "Postavi zadani prikaz za proizvode (popis ili rešetku)"
+
+#: options.php:720
+#, fuzzy
+msgid "Single Product Options"
+msgstr "Pojedinačne mogućnosti proizvoda"
+
+#: options.php:725
+#, fuzzy
+msgid "Choose single product page type"
+msgstr "Odaberite vrstu stranice proizvoda"
+
+#: options.php:730
+#, fuzzy
+msgid "Single Product Page Type 1"
+msgstr "Jedan tip stranice proizvoda 1"
+
+#: options.php:731
+#, fuzzy
+msgid "Single Product Page Type 2"
+msgstr "Jedna stranica proizvoda vrsta 2"
+
+#: options.php:732
+#, fuzzy
+msgid "Single Product Page Type 3"
+msgstr "Jedan tip stranice proizvoda 3"
+
+#: options.php:738
+#, fuzzy
+msgid "Show Single Product pagination (prev/next product)?"
+msgstr ""
+"Pokaži numeriranje pojedinačnu verziju proizvoda (prethodna/sljedeći proizvod)?"
+
+#: options.php:739
+#, fuzzy
+msgid "Switch to Off if you don't want to use single pagination on product page"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti jednu numeriranje na "
+"stranici proizvoda"
+
+#: options.php:747
+#, fuzzy
+msgid "Enable Guide Size on Single Product?"
+msgstr "Omogućite veličinu vodiča na jedinstvenom proizvodu?"
+
+#: options.php:748
+#, fuzzy
+msgid "Switch to Off if you don't want to use Guide Size on Single Product"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti veličinu vodiča na "
+"jedinstvenom proizvodu"
+
+#: options.php:757
+#, fuzzy
+msgid "Image for Guide Size"
+msgstr "Slika za veličinu vodiča"
+
+#: options.php:765
+#, fuzzy
+msgid "Show single product share buttons?"
+msgstr "Prikaz gumba za zajedničko korištenje proizvoda?"
+
+#: options.php:766
+#, fuzzy
+msgid "Switch to Off if you don't want to use single product share buttons"
+msgstr ""
+"Prebacivanje na Isključeno ako ne želite koristiti pojedinačne gumbe za "
+"zajedničko korištenje proizvoda"
+
+#: options.php:774
+#, fuzzy
+msgid "Use custom images output on Single product page?"
+msgstr "Koristite prilagođene slike izlaz na jednoj stranici proizvoda?"
+
+#: options.php:775
+#, fuzzy
+msgid "Turning on custom image carousel on single product page"
+msgstr "Okretanje na mušterija predodžba vrtuljak na sam stvarajući stranica"
+
+#: options.php:784
+#, fuzzy
+msgid "Choose slider type for images on Single product page"
+msgstr "Odaberite vrstu klizača za slike na jednoj stranici proizvoda"
+
+#: options.php:790
+msgid "Slider"
+msgstr "Slider"
+
+#: options.php:791
+#, fuzzy
+msgid "Slider with pop-up gallery"
+msgstr "Klizač s skočnom gelom"
+
+#: options.php:792
+#, fuzzy
+msgid "Slider with thumbnails"
+msgstr "Klizač s minijaturama"
+
+#: options.php:793
+#, fuzzy
+msgid "Vertical thumbnails"
+msgstr "Vertikalne minijature"
+
+#: options.php:798
+#, fuzzy
+msgid "Select transition effect for Product Images Carousel"
+msgstr "Odaberite efekt prijelaza za slike proizvoda Carousel"
+
+#: options.php:804
+msgid "Fade"
+msgstr "Postupno iščezavanje"
+
+#: options.php:805
+#, fuzzy
+msgid "Back Slide"
+msgstr "Stražnji slajd"
+
+#: options.php:806
+#, fuzzy
+msgid "Go Down"
+msgstr "Sići"
+
+#: options.php:807
+#, fuzzy
+msgid "Fade Up"
+msgstr "Izblijedjeti"
+
+#: options.php:812
+#, fuzzy
+msgid "Show single product up-sells?"
+msgstr "Pokaži jedan proizvod gore-prodaje?"
+
+#: options.php:821
+#, fuzzy
+msgid "Select how many Up-Sell Products to show on Single product page"
+msgstr ""
+"Odaberite koliko gore-prodavati proizvode za pokazivanje na jednoj stranici "
+"proizvoda"
+
+#: options.php:827
+#, fuzzy
+msgid "2 products"
+msgstr "2 proizvodi"
+
+#: options.php:828 options.php:850
+#, fuzzy
+msgid "3 products"
+msgstr "3 proizvodi"
+
+#: options.php:829 options.php:851
+#, fuzzy
+msgid "4 products"
+msgstr "4 proizvodi"
+
+#: options.php:830
+#, fuzzy
+msgid "5 products"
+msgstr "5 proizvodi"
+
+#: options.php:835
+#, fuzzy
+msgid "Show single product related products?"
+msgstr "Prikaz proizvoda povezanih s jednim proizvodom?"
+
+#: options.php:844
+#, fuzzy
+msgid "Select how many Related Products to show on Single product page"
+msgstr ""
+"Odaberite koliko srodnih proizvoda treba prikazati na jednoj stranici proizvoda"
+
+#: options.php:856
+msgid "Banner Options"
+msgstr "Opcije banera"
+
+#: options.php:861
+#, fuzzy
+msgid "Store Banner view switcher"
+msgstr "Store banner pogled Switcher"
+
+#: options.php:869
+#, fuzzy
+msgid "Enter height banner"
+msgstr "Unesite visina banner"
+
+#: options.php:877
+#, fuzzy
+msgid "Background for banner"
+msgstr "Pozadina za banner"
+
+#: options.php:878
+#, fuzzy
+msgid "Add custom background color or image for banner shop section."
+msgstr ""
+"Dodajte prilagođenu boju pozadine ili sliku za sekciju trgovina transparenta."
+
+#: options.php:891
+#, fuzzy
+msgid "Enter a title for banner"
+msgstr "Unesite naslov za banner"
+
+#: options.php:898
+#, fuzzy
+msgid "Enter a description for banner"
+msgstr "Unesite opis za banner"
+
+#: options.php:905
+#, fuzzy
+msgid "Enter store banner url for button"
+msgstr "Unesite URL za gumb spremišta transparenta"
+
+#: options.php:912
+#, fuzzy
+msgid "Enter a store banner button text"
+msgstr "Unesite tekst gumba spremišta transparenta"
+
+#: options.php:919
+#, fuzzy
+msgid "Banner Button Text Color"
+msgstr "Boja teksta gumba transparenta"
+
+#: options.php:926
+#, fuzzy
+msgid "Button Background"
+msgstr "Pozadina gumba"
+
+#: options.php:933
+#, fuzzy
+msgid "Select text position for banner"
+msgstr "Odabir položaja teksta za banner"
+
+#: options.php:938
+msgid "center"
+msgstr "sredina"
+
+#: options.php:939
+#, fuzzy
+msgid "left"
+msgstr "Lijevo"
+
+#: options.php:940
+#, fuzzy
+msgid "right"
+msgstr "Desno"
+
+#: options.php:945
+#, fuzzy
+msgid "Typography and Colors"
+msgstr "Tipografija i boje"
+
+#: options.php:951
+#, fuzzy
+msgid "Enable custom colors and fonts?"
+msgstr "Omogući prilagođene boje i fontove?"
+
+#: options.php:960
+#, fuzzy
+msgid "Fonts Options"
+msgstr "Mogućnosti fontova"
+
+#: options.php:965
+#, fuzzy
+msgid "Google Fonts Api Key"
+msgstr "Google Fonts API ključ"
+
+#: options.php:966
+#, fuzzy
+msgid "Add Your Google Fonts Api Key"
+msgstr "Dodati tvoj Google fontovi API ključ"
+
+#: options.php:974
+#, fuzzy
+msgid "Primary text typography options"
+msgstr "Mogućnosti tipografije primarnog teksta"
+
+#: options.php:975
+#, fuzzy
+msgid "Specify color for all text content"
+msgstr "Navedite boju za sav tekstualni sadržaj"
+
+#: options.php:989
+#, fuzzy
+msgid "Secondary text color"
+msgstr "Boja sekundarnog teksta"
+
+#: options.php:990
+#, fuzzy
+msgid ""
+"Specify secondary color for all meta content(categories, tags, excerpts, avtor "
+"biography)"
+msgstr ""
+"Navedite sekundarnu boju za sve meta sadržaja (kategorije, oznake, Izvadci, "
+"Avtor biografija)"
+
+#: options.php:998
+#, fuzzy
+msgid "Content headings typography options"
+msgstr "Odrednice tipografije naslova sadržaja"
+
+#: options.php:999
+#, fuzzy
+msgid ""
+"Specify color for all headings in the content area(page/post/product titles)"
+msgstr ""
+"Navedite boju za sve naslove u području sadržaja (stranica/pošta/nazivi "
+"proizvoda)"
+
+#: options.php:1013
+#, fuzzy
+msgid "Sidebar headings typography options"
+msgstr "Mogućnosti bočne trake zaglavlja tipografije"
+
+#: options.php:1014
+#, fuzzy
+msgid "Specify color for all headings in the sidebar area(widget titles)"
+msgstr "Navedite boju za sve naslove u području sidebar (widget naslovi)"
+
+#: options.php:1028
+#, fuzzy
+msgid "Footer headings typography options"
+msgstr "Odrednice tipografije podnožja"
+
+#: options.php:1029
+#, fuzzy
+msgid ""
+"Specify color for all headings in the footer widgets(footer widget titles)"
+msgstr "Navedite boju za sve naslove u podnožje widgets (footer widget naslovi)"
+
+#: options.php:1043
+#, fuzzy
+msgid "Footer text color"
+msgstr "Boja teksta podnožja"
+
+#: options.php:1044
+#, fuzzy
+msgid "Specify color for text in the footer area"
+msgstr "Određivanje boje teksta u području podnožja"
+
+#: options.php:1052
+#, fuzzy
+msgid "Links and Buttons Options"
+msgstr "Mogućnosti veza i gumba"
+
+#: options.php:1058
+msgid "Link color"
+msgstr "Boja linka"
+
+#: options.php:1059
+#, fuzzy
+msgid "Specify color for all text links"
+msgstr "Navedite boju za sve tekstne veze"
+
+#: options.php:1067
+#, fuzzy
+msgid "Link color on hover"
+msgstr "Povezati boja na lebdjeti"
+
+#: options.php:1068
+#, fuzzy
+msgid "Specify color for all hovered text links"
+msgstr "Navedite boju za sve veze koje se nalaze u h. tekstu"
+
+#: options.php:1076
+#, fuzzy
+msgid "Primary button typography options"
+msgstr "Mogućnosti tipografije primarnog gumba"
+
+#: options.php:1077
+#, fuzzy
+msgid "Specify fonts for buttons(product \"add to cart\", form buttons, etc.)"
+msgstr ""
+"Navedite fontove za gumbe (proizvod \"Dodaj u košaricu\", obrazac gumbi, itd.)"
+
+#: options.php:1091
+#, fuzzy
+msgid "Primary button background color"
+msgstr "Boja pozadine primarnog gumba"
+
+#: options.php:1092
+#, fuzzy
+msgid "Specify background color for buttons."
+msgstr "Navedite boju pozadine za gumbe."
+
+#: options.php:1100
+#, fuzzy
+msgid "Primary button background color on hover"
+msgstr "Primarna boja pozadine gumba na držanju"
+
+#: options.php:1101
+#, fuzzy
+msgid "Specify background color for buttons on hover."
+msgstr "Navedite boju pozadine za gumbe na hover."
+
+#: options.php:1109
+#, fuzzy
+msgid "Primary button text color on hover"
+msgstr "Boja teksta primarnog gumba na držanju"
+
+#: options.php:1110
+#, fuzzy
+msgid "Specify text color for hovered buttons"
+msgstr "Navedite boju teksta za hje gumbe"
+
+#: options.php:1118
+#, fuzzy
+msgid "Icons and other Elements"
+msgstr "Ikone i ostali elementi"
+
+#: options.php:1124
+#, fuzzy
+msgid "Main Theme color"
+msgstr "Glavna tema boja"
+
+#: options.php:1125
+#, fuzzy
+msgid "Specify color for decorative elements(icons, buttons, switchers, etc.)"
+msgstr "Navedite boju za dekorativne elemente (ikone, gumbi, Switchers, itd.)"
+
+#: options.php:1133
+#, fuzzy
+msgid "Theme Border color"
+msgstr "Boja obruba teme"
+
+#: options.php:1134
+#, fuzzy
+msgid "Specify color for borders of the theme elements"
+msgstr "Navedite boju obruba elemenata teme"
+
+#: options.php:1142
+#, fuzzy
+msgid "Gallery Page"
+msgstr "Galerija stranica"
+
+#: options.php:1148
+#, fuzzy
+msgid "Choose hover effect for gallery item"
+msgstr "Odabir efekta lebdenja za stavku galerije"
+
+#: options.php:1153
+#, fuzzy
+msgid "Hover effect 1"
+msgstr "Efekt lebdenja 1"
+
+#: options.php:1154
+#, fuzzy
+msgid "Hover effect 2"
+msgstr "Efekt lebdenja 2"
+
+#: options.php:1155
+#, fuzzy
+msgid "Without hover effect"
+msgstr "Bez efekta lebdenja"
+
+#: page-templates/front-page.php:35 page-templates/front-page.php:50
+#: page-templates/front-page.php:65
+#, fuzzy
+msgid "VIEW NOW"
+msgstr "Pogledaj sada"
+
+#: page-templates/front-page.php:76
+#, fuzzy
+msgid "SHOP NOW"
+msgstr "SHOP sada"
+
+#: page-templates/front-page.php:81
+#, fuzzy
+msgid "FEATURED PRODUCTS"
+msgstr "Istaknuti proizvodi"
+
+#: page-templates/front-page.php:88
+#, fuzzy
+msgid "ON SALE"
+msgstr "Akcija!"
+
+#: page-templates/front-page.php:111
+#, fuzzy
+msgid "FROM THE BLOG"
+msgstr "IZ bloga"
+
+#: page-templates/front-page.php:143
+msgid "by"
+msgstr "od"
+
+#: page-templates/front-page.php:143
+msgid "in"
+msgstr "u"
+
+#: page-templates/front-page.php:213
+#, fuzzy
+msgid "FREE ORDER & DELIVERY"
+msgstr "BESPLATNA narudžba & dostava"
+
+#: page-templates/front-page.php:214
+#, fuzzy
+msgid "Guaranteed Delivery In 4 Days"
+msgstr "Zajamčena dostava u 4 dana"
+
+#: page-templates/front-page.php:233
+#, fuzzy
+msgid "RETURN & REFUNDS"
+msgstr "POVRATAK i povrat sredstava"
+
+#: page-templates/front-page.php:234
+#, fuzzy
+msgid "Your satisfaction is of the utmost importance"
+msgstr "Vaše zadovoljstvo je od najvećeg značaja"
+
+#: page-templates/front-page.php:253
+#, fuzzy
+msgid "PRIVACY & SECURITY"
+msgstr "PRIVATNOST i sigurnost"
+
+#: page-templates/front-page.php:254
+#, fuzzy
+msgid "What our privacy and security programs"
+msgstr "Što naši programi privatnosti i sigurnosti"
+
+#: page-templates/gallery.php:178
+msgid "Quick View"
+msgstr "Brzi pregled"
+
+#: page-templates/gallery.php:195 part-templates/brideliness-related-posts.php:51
+#: part-templates/brideliness-related-posts.php:66
+#, fuzzy
+msgid "Click to learn more"
+msgstr "Kliknite da biste saznali više"
+
+#: part-templates/author-bio.php:15
+#, fuzzy
+msgid "All posts"
+msgstr "Sve postove"
+
+#: part-templates/author-bio.php:20
+#, fuzzy
+msgid "written by"
+msgstr "napisao"
+
+#: part-templates/breadcrumbs.php:6
+msgid "Home"
+msgstr "Početna"
+
+#: part-templates/breadcrumbs.php:7
+#, fuzzy, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Arhiva po kategoriji \" %s\""
+
+#: part-templates/breadcrumbs.php:8
+#, fuzzy, php-format
+msgid "Search Results for \"%s\""
+msgstr "Prikazuju se rezultati pretrage za: %s"
+
+#: part-templates/breadcrumbs.php:9
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Objave označena sa: \"%s\""
+
+#: part-templates/breadcrumbs.php:10
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Članke objavio %s"
+
+#: part-templates/breadcrumbs.php:11
+msgid "Error 404"
+msgstr "Greška 404"
+
+#: part-templates/breadcrumbs.php:141
+msgid "Page"
+msgstr "Stranica"
+
+#: part-templates/brideliness-related-posts.php:30
+msgid "Related Posts"
+msgstr "Povezane objave"
+
+#: part-templates/header-top.php:53 part-templates/logo-group.php:121
+#: part-templates/logo-group.php:160
+msgid "Skip to content"
+msgstr "Idi na sadržaj"
+
+#: part-templates/page-title.php:11
+#, fuzzy
+msgid "check your"
+msgstr "Provjerite svoje"
+
+#: part-templates/page-title.php:12
+#, fuzzy
+msgid "shopping cart"
+msgstr "Košaricu"
+
+#: part-templates/page-title.php:16
+#, fuzzy
+msgid "add details to"
+msgstr "Dodaj detalje u"
+
+#: part-templates/page-title.php:17
+#, fuzzy
+msgid "chekout"
+msgstr "chekout"
+
+#: part-templates/page-title.php:21
+#, fuzzy
+msgid "your account page"
+msgstr "stranica računa"
+
+#: part-templates/page-title.php:22
+#, fuzzy
+msgid "account page"
+msgstr "Stranica Moj račun"
+
+#: part-templates/page-title.php:33
+#, fuzzy
+msgid "recently from"
+msgstr "Nedavno od"
+
+#: part-templates/page-title.php:39
+#, fuzzy
+msgid "our blog"
+msgstr "naš blog"
+
+#: part-templates/page-title.php:44
+#, fuzzy
+msgid "search"
+msgstr "Pretraži"
+
+#: part-templates/page-title.php:49
+msgid "Tag"
+msgstr "Oznaka"
+
+#: part-templates/page-title.php:54
+msgid "Category"
+msgstr "Kategorija"
+
+#: part-templates/page-title.php:59
+#, fuzzy
+msgid "All posts by"
+msgstr "Sve postove od"
+
+#: part-templates/page-title.php:64
+#, fuzzy
+msgid "Daily Archives"
+msgstr "Dnevna arhiva %s"
+
+#: part-templates/page-title.php:69
+msgid "Monthly Archives"
+msgstr "Mjesečna Arhive"
+
+#: part-templates/page-title.php:74
+#, fuzzy
+msgid "Yearly Archives"
+msgstr "Godišnja Arhiva: %s"
+
+#: part-templates/page-title.php:89
+#, fuzzy
+msgid "take a look at"
+msgstr "pogledati"
+
+#: part-templates/page-title.php:90 part-templates/page-title.php:95
+#, fuzzy
+msgid "lookbook"
+msgstr "Lookbook"
+
+#: part-templates/pagination.php:25
+msgid "Posts navigation"
+msgstr "Navigacija postova"
+
+#: theme-options/includes/class-options-framework-admin.php:91
+#: theme-options/includes/class-options-framework-admin.php:92
+msgid "Theme Options"
+msgstr "Postavke teme"
+
+#: theme-options/includes/class-options-framework-admin.php:203
+#, fuzzy
+msgid "Save Options"
+msgstr "Mogućnosti spremanja"
+
+#: theme-options/includes/class-options-framework-admin.php:204
+#, fuzzy
+msgid "Restore Defaults"
+msgstr "Vrati zadane postavke"
+
+#: theme-options/includes/class-options-framework-admin.php:204
+#, fuzzy
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Klik u redu to nanovo naoštriti. Sve postavke teme će biti izgubljene!"
+
+#: theme-options/includes/class-options-framework-admin.php:235
+#, fuzzy
+msgid "Default options restored."
+msgstr "Zadane mogućnosti vraćene."
+
+#: theme-options/includes/class-options-framework-admin.php:289
+#, fuzzy
+msgid "Options saved."
+msgstr "Mogućnosti spremljene."
+
+#: theme-options/includes/class-options-media-uploader.php:62
+msgid "No file chosen"
+msgstr "Nije odabrana niti jedna datoteka"
+
+#: theme-options/includes/class-options-media-uploader.php:65
+#: theme-options/includes/class-options-media-uploader.php:118
+#, fuzzy
+msgid "Upload"
+msgstr "Prenesi novu datoteku"
+
+#: theme-options/includes/class-options-media-uploader.php:67
+#: theme-options/includes/class-options-media-uploader.php:119
+msgid "Remove"
+msgstr "Ukloni"
+
+#: theme-options/includes/class-options-media-uploader.php:70
+#, fuzzy
+msgid "Upgrade your version of WordPress for full media support."
+msgstr "Nadogradite svoju verziju WordPress za punu multimedijsku podršku."
+
+#: theme-options/includes/class-options-media-uploader.php:94
+#, fuzzy
+msgid "View File"
+msgstr "Prikaz datoteke"
+
+#: theme-options/includes/class-options-sanitization.php:316
+#, fuzzy
+msgid "No Repeat"
+msgstr "Nema ponavljanja"
+
+#: theme-options/includes/class-options-sanitization.php:317
+#, fuzzy
+msgid "Repeat Horizontally"
+msgstr "Ponovite vodoravno"
+
+#: theme-options/includes/class-options-sanitization.php:318
+#, fuzzy
+msgid "Repeat Vertically"
+msgstr "Ponovi okomito"
+
+#: theme-options/includes/class-options-sanitization.php:319
+#, fuzzy
+msgid "Repeat All"
+msgstr "Ponovite sve"
+
+#: theme-options/includes/class-options-sanitization.php:331
+#, fuzzy
+msgid "Top Left"
+msgstr "Gornji lijevi"
+
+#: theme-options/includes/class-options-sanitization.php:332
+#, fuzzy
+msgid "Top Center"
+msgstr "Top centar"
+
+#: theme-options/includes/class-options-sanitization.php:333
+msgid "Top Right"
+msgstr "Gornji desni"
+
+#: theme-options/includes/class-options-sanitization.php:334
+#, fuzzy
+msgid "Middle Left"
+msgstr "Srednji lijevi"
+
+#: theme-options/includes/class-options-sanitization.php:335
+#, fuzzy
+msgid "Middle Center"
+msgstr "Srednji centar"
+
+#: theme-options/includes/class-options-sanitization.php:336
+#, fuzzy
+msgid "Middle Right"
+msgstr "Srednji desno"
+
+#: theme-options/includes/class-options-sanitization.php:337
+#, fuzzy
+msgid "Bottom Left"
+msgstr "Donji lijevi"
+
+#: theme-options/includes/class-options-sanitization.php:338
+#, fuzzy
+msgid "Bottom Center"
+msgstr "Donji centar"
+
+#: theme-options/includes/class-options-sanitization.php:339
+#, fuzzy
+msgid "Bottom Right"
+msgstr "Dolje desno"
+
+#: theme-options/includes/class-options-sanitization.php:351
+#, fuzzy
+msgid "Scroll Normally"
+msgstr "Normalno pomicanje"
+
+#: theme-options/includes/class-options-sanitization.php:352
+#, fuzzy
+msgid "Fixed in Place"
+msgstr "Fiksna u mjestu"
+
+#: theme-options/includes/class-options-sanitization.php:424
+msgid "Normal"
+msgstr "Normalno"
+
+#: theme-options/includes/class-options-sanitization.php:425
+#, fuzzy
+msgid "Italic"
+msgstr "Kurziv"
+
+#: theme-options/includes/class-options-sanitization.php:426
+msgid "Bold"
+msgstr "Podebljano"
+
+#: theme-options/includes/class-options-sanitization.php:427
+msgid "Light"
+msgstr "Svijetlo"
+
+#: theme-options/includes/class-options-sanitization.php:428
+#, fuzzy
+msgid "Bold Italic"
+msgstr "Podebljano kurziv"
+
+#: widgets/brideliness-widget-cart.php:16
+msgid "WooCommerce Cart (Brideliness)"
+msgstr "WooCommerce korpa (Brideliness)"
+
+#: widgets/brideliness-widget-cart.php:17
+msgid "Display the user's Cart in the sidebar."
+msgstr "Prikaži korpu korisnika u bočnoj traci."
+
+#: widgets/brideliness-widget-cart.php:49
+msgid "Cart"
+msgstr "Korpa"
+
+#: widgets/brideliness-widget-cart.php:115
+#: widgets/brideliness-widget-contacts.php:33
+#: widgets/brideliness-widget-socials.php:119
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:40
+#, fuzzy
+msgid "Title:"
+msgstr "(nema naziva)"
+
+#: widgets/brideliness-widget-cart.php:119
+msgid "Hide if cart is empty"
+msgstr "Sakrij ako je korpa prazna"
+
+#: widgets/brideliness-widget-cart.php:122
+msgid "Cart style 1"
+msgstr "Korpa stil 1"
+
+#: widgets/brideliness-widget-cart.php:147
+#: widgets/brideliness-widget-cart.php:149
+msgid "View your shopping cart"
+msgstr "Pogledajte košaricu za kupnju"
+
+#: widgets/brideliness-widget-cart.php:147
+#, php-format
+msgid "%d ITEM"
+msgid_plural "%d ITEMS"
+msgstr[0] "%d STAVKA"
+msgstr[1] ""
+msgstr[2] ""
+
+#: widgets/brideliness-widget-collapsing-categories.php:14
+#, fuzzy
+msgid "Brideliness Collapsing Categories"
+msgstr "Brideliness urušavanja kategorije"
+
+#: widgets/brideliness-widget-collapsing-categories.php:15
+#, fuzzy
+msgid ""
+"Brideliness special widget. Display configurable accordion with categories on "
+"your site."
+msgstr ""
+"Brideliness poseban widget. Display podesiva harmonika s kategorijama na vašoj "
+"web lokaciji."
+
+#: widgets/brideliness-widget-collapsing-categories.php:32
+#: widgets/brideliness-widget-recent-posts.php:37
+#: widgets/brideliness-widget-search.php:27
+#, fuzzy
+msgid "Title: "
+msgstr "(nema naziva)"
+
+#: widgets/brideliness-widget-collapsing-categories.php:39
+#, fuzzy
+msgid "Show count for categories"
+msgstr "Prikaži brojanje za kategorije"
+
+#: widgets/brideliness-widget-collapsing-categories.php:42
+#, fuzzy
+msgid "Categories type:"
+msgstr "Vrsta Kategorija:"
+
+#: widgets/brideliness-widget-collapsing-categories.php:44
+msgid "Post Categories"
+msgstr "Gönderme Kategorileri"
+
+#: widgets/brideliness-widget-collapsing-categories.php:45
+#, fuzzy
+msgid "Product Categories"
+msgstr "Kategorije proizvoda"
+
+#: widgets/brideliness-widget-collapsing-categories.php:50
+#: widgets/brideliness-widget-recent-posts.php:58
+msgid "Sort by:"
+msgstr "Sortiraj po:"
+
+#: widgets/brideliness-widget-collapsing-categories.php:52
+msgid "ID"
+msgstr "ID"
+
+#: widgets/brideliness-widget-collapsing-categories.php:54
+msgid "Slug"
+msgstr "Slug"
+
+#: widgets/brideliness-widget-collapsing-categories.php:59
+#, fuzzy
+msgid "Order:"
+msgstr "Narudžba"
+
+#: widgets/brideliness-widget-collapsing-categories.php:61
+msgid "Ascending"
+msgstr "Uzlazno"
+
+#: widgets/brideliness-widget-collapsing-categories.php:62
+msgid "Descending"
+msgstr "Silazno"
+
+#: widgets/brideliness-widget-collapsing-categories.php:67
+#, fuzzy
+msgid "Exclude Category (ID): "
+msgstr "Isključi kategoriju (ID):"
+
+#: widgets/brideliness-widget-collapsing-categories.php:70
+#, fuzzy
+msgid "category IDs, separated by commas."
+msgstr "ID kategorije, odvojeni zarezima."
+
+#: widgets/brideliness-widget-collapsing-categories.php:123
+msgid "No categories"
+msgstr "Bez kategorija"
+
+#: widgets/brideliness-widget-contacts.php:12
+#, fuzzy
+msgid "Brideliness Contacts Widget"
+msgstr "Brideliness kontakti widget"
+
+#: widgets/brideliness-widget-contacts.php:13
+#, fuzzy
+msgid "Brideliness special widget. An Address Widget with Google map"
+msgstr "Brideliness poseban widget. Widget adrese s Google Map"
+
+#: widgets/brideliness-widget-contacts.php:20
+msgid "Location"
+msgstr "Lokacija"
+
+#: widgets/brideliness-widget-contacts.php:37
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:44
+#, fuzzy
+msgid "Pre-Content"
+msgstr "Pre-izdovoljiti se"
+
+#: widgets/brideliness-widget-contacts.php:41
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:72
+#, fuzzy
+msgid "Post-Content"
+msgstr "Post-Content"
+
+#: widgets/brideliness-widget-contacts.php:45
+msgid "Address:"
+msgstr "Adresa:"
+
+#: widgets/brideliness-widget-contacts.php:49
+#, fuzzy
+msgid "Skype:"
+msgstr "Skype:"
+
+#: widgets/brideliness-widget-contacts.php:53
+#, fuzzy
+msgid "Phone:"
+msgstr "Telefon"
+
+#: widgets/brideliness-widget-contacts.php:57
+msgid "Fax:"
+msgstr "Mobitel:"
+
+#: widgets/brideliness-widget-contacts.php:61
+msgid "Email:"
+msgstr "Email:"
+
+#: widgets/brideliness-widget-contacts.php:108
+#, fuzzy
+msgid "a:"
+msgstr "A:"
+
+#: widgets/brideliness-widget-contacts.php:109
+#, fuzzy
+msgid "t:"
+msgstr "Nemate dozvolu za napraviti ovo."
+
+#: widgets/brideliness-widget-contacts.php:110
+#, fuzzy
+msgid "f:"
+msgstr "F Y"
+
+#: widgets/brideliness-widget-contacts.php:111
+#, fuzzy
+msgid "s:"
+msgstr "%s"
+
+#: widgets/brideliness-widget-contacts.php:112
+#, fuzzy
+msgid "Email us"
+msgstr "Pošaljite nam E-mail"
+
+#: widgets/brideliness-widget-contacts.php:112
+#, fuzzy
+msgid "e:"
+msgstr "Pesaro e Urbino"
+
+#: widgets/brideliness-widget-recent-posts.php:12
+#, fuzzy
+msgid "Brideliness Recent Posts"
+msgstr "Brideliness nedavni postovi"
+
+#: widgets/brideliness-widget-recent-posts.php:13
+#, fuzzy
+msgid ""
+"Brideliness special widget. Displaying number of recent posts on your site."
+msgstr ""
+"Brideliness poseban widget. Prikaz broja nedavnih postova na vašem web-mjestu."
+
+#: widgets/brideliness-widget-recent-posts.php:19
+msgid "Recent Posts"
+msgstr "Najnovije objave"
+
+#: widgets/brideliness-widget-recent-posts.php:41
+#, fuzzy
+msgid "How many posts to display: "
+msgstr "Koliko postova za prikaz:"
+
+#: widgets/brideliness-widget-recent-posts.php:45
+#, fuzzy
+msgid "Show Posts for next Post Type:"
+msgstr "Prikaži postove za sljedeću vrstu posta:"
+
+#: widgets/brideliness-widget-recent-posts.php:60
+msgid "Date"
+msgstr "Datum"
+
+#: widgets/brideliness-widget-recent-posts.php:61
+msgid "Title"
+msgstr "Naslov"
+
+#: widgets/brideliness-widget-recent-posts.php:62
+msgid "Number of comments"
+msgstr "Broj komentara"
+
+#: widgets/brideliness-widget-recent-posts.php:63
+#, fuzzy
+msgid "Author"
+msgstr "URL autora Matične teme."
+
+#: widgets/brideliness-widget-recent-posts.php:64
+#, fuzzy
+msgid "Menu Order (if specified only for pages)"
+msgstr "Redoslijed izbornika (ako je naveden samo za stranice)"
+
+#: widgets/brideliness-widget-recent-posts.php:65
+msgid "Random"
+msgstr "Slučjani odabir"
+
+#: widgets/brideliness-widget-recent-posts.php:70
+#, fuzzy
+msgid "Reverse sort order (ascending)?"
+msgstr "Obrnuti redoslijed sortiranja (uzlazno)?"
+
+#: widgets/brideliness-widget-recent-posts.php:74
+#, fuzzy
+msgid "Show publish date?"
+msgstr "Pokaži Datum objavljivanja?"
+
+#: widgets/brideliness-widget-recent-posts.php:78
+#, fuzzy
+msgid "Show list of post Categories?"
+msgstr "Prikaži popis post kategorija?"
+
+#: widgets/brideliness-widget-recent-posts.php:82
+#, fuzzy
+msgid "Show number of comments?"
+msgstr "Prikaži broj komentara?"
+
+#: widgets/brideliness-widget-recent-posts.php:85
+#, fuzzy
+msgid "Specify ID of category (categories) to show: "
+msgstr "Navedite ID kategorije (kategorije) za prikazivanje:"
+
+#: widgets/brideliness-widget-recent-posts.php:90
+#, fuzzy
+msgid "Show post thumbnail?"
+msgstr "Pokaži sličice post?"
+
+#: widgets/brideliness-widget-recent-posts.php:94
+#, fuzzy
+msgid "Show post excerpt?"
+msgstr "Pokaži Post izvadak?"
+
+#: widgets/brideliness-widget-recent-posts.php:97
+#, fuzzy
+msgid "Excerpt length (in words):"
+msgstr "Duljina izvadak (u riječima):"
+
+#: widgets/brideliness-widget-recent-posts.php:101
+#, fuzzy
+msgid "Excerpt read more text:"
+msgstr "Izvadak Pročitajte više teksta:"
+
+#: widgets/brideliness-widget-recent-posts.php:106
+#, fuzzy
+msgid "Show price? (products only)"
+msgstr "Pokazati cijenu? (samo proizvodi)"
+
+#: widgets/brideliness-widget-recent-posts.php:208
+#, fuzzy
+msgid ","
+msgstr ","
+
+#: widgets/brideliness-widget-recent-posts.php:209
+#, fuzzy
+msgid "Categories: "
+msgstr "Bez kategorija"
+
+#: widgets/brideliness-widget-recent-posts.php:213
+#, fuzzy
+msgid "No comments yet"
+msgstr "Još nema komentara"
+
+#: widgets/brideliness-widget-recent-posts.php:213
+msgid "1 comment"
+msgstr "1 komentar"
+
+#: widgets/brideliness-widget-recent-posts.php:213
+#, php-format
+msgid "% comments"
+msgstr "% komentara"
+
+#: widgets/brideliness-widget-recent-posts.php:213
+#, fuzzy
+msgid "Comments are off"
+msgstr "Komentari su off"
+
+#: widgets/brideliness-widget-search.php:12
+#, fuzzy
+msgid "Brideliness Search"
+msgstr "Brideliness pretraživanje"
+
+#: widgets/brideliness-widget-search.php:13
+#, fuzzy
+msgid "Brideliness special widget. A search form for your site."
+msgstr "Brideliness poseban widget. Obrazac za pretraživanje vaše web-lokacije."
+
+#: widgets/brideliness-widget-search.php:20
+msgid "Search website..."
+msgstr "Pretražite sajt…"
+
+#: widgets/brideliness-widget-search.php:31
+#, fuzzy
+msgid "Input Text: "
+msgstr "Ulazni tekst:"
+
+#: widgets/brideliness-widget-search.php:35
+#, fuzzy
+msgid "Button Title Text: "
+msgstr "Tekst naslova gumba:"
+
+#: widgets/brideliness-widget-search.php:42
+#, fuzzy
+msgid "Product search only"
+msgstr "Samo pretraživanje proizvoda"
+
+#: widgets/brideliness-widget-socials.php:13
+#, fuzzy
+msgid "Brideliness Social Icons"
+msgstr "Brideliness društvene ikone"
+
+#: widgets/brideliness-widget-socials.php:16
+#, fuzzy
+msgid ""
+"Brideliness special widget. Displays a list of social media website icons and "
+"a link to your profile."
+msgstr ""
+"Brideliness poseban widget. Prikazuje popis ikona web-mjesta društvenih medija "
+"i vezu s vašim profilom."
+
+#: widgets/brideliness-widget-socials.php:130
+#, fuzzy
+msgid "Icon Size:"
+msgstr "Veličina ikone:"
+
+#: widgets/brideliness-widget-socials.php:146
+#, fuzzy
+msgid "Hide Title"
+msgstr "Sakrij naslov"
+
+#: widgets/brideliness-widget-socials.php:149
+#, fuzzy
+msgid "Inline Mode"
+msgstr "Način u istoj razini"
+
+#: widgets/brideliness-widget-socials.php:158
+msgid "URL:"
+msgstr "URL:"
+
+#: widgets/brideliness-widget-socials.php:210
+#, fuzzy
+msgid "Connect us on "
+msgstr "Spojite nas na"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:12
+#, fuzzy
+msgid "Brideliness Payment Icons"
+msgstr "Brideliness plaćanje ikone"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:13
+#, fuzzy
+msgid "Plum Tree special widget. Add payment methods icons"
+msgstr "Šljiva poseban widget. Dodavanje ikona načina plaćanja"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:20
+#, fuzzy
+msgid "We Accept"
+msgstr "Prihvaćamo"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:50
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:134
+msgid "American Express"
+msgstr "American Express"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:51
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:139
+msgid "Discover"
+msgstr "Discover"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:52
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:144
+#, fuzzy
+msgid "Maestro"
+msgstr "Maestro"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:53
+#, fuzzy
+msgid "Mastercard"
+msgstr "MasterCard"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:54
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:154
+msgid "PayPal"
+msgstr "PayPal"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:55
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:159
+msgid "Visa"
+msgstr "Visa"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:56
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:164
+#, fuzzy
+msgid "Western Union"
+msgstr "Western Union"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:57
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:169
+#, fuzzy
+msgid "Gift Cards"
+msgstr "Poklon kartice"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:58
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:174
+#, fuzzy
+msgid "Cash"
+msgstr "Plaćanje gotovinom prilikom dostave"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:59
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:179
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:60
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:184
+msgid "Amazon"
+msgstr "Amazon"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:61
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:189
+msgid "Skrill"
+msgstr "Skrill"
+
+#: widgets/pay-icons/brideliness-widget-pay-icons.php:149
+msgid "MasterCard"
+msgstr "MasterCard"
+
+#: woocommerce/cart/cart-shipping.php:48
+msgid ""
+"There are no shipping methods available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Nema dostupnih metoda dostave. Pobrinite se da je vaša adresa ispravno "
+"upisana, ili nas kontaktirajte ako trebate bilo kakvu pomoć."
+
+#: woocommerce/cart/cart-shipping.php:50
+msgid "Enter your full address to see shipping costs."
+msgstr "Upišite svoju punu adresu kako bi vidjeli cijenu dostave."
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:64
+msgid "Product"
+msgstr "Proizvod"
+
+#: woocommerce/cart/cart.php:35 woocommerce/cart/cart.php:82
+msgid "Price"
+msgstr "Cijena"
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:88
+msgid "Quantity"
+msgstr "Količina"
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:104
+#: woocommerce/checkout/review-order.php:113
+msgid "Total"
+msgstr "Ukupno"
+
+#: woocommerce/cart/cart.php:77
+msgid "Available on backorder"
+msgstr "Dostupno uz narudžbu"
+
+#: woocommerce/cart/cart.php:116 woocommerce/cart/mini-cart.php:66
+msgid "Remove this item"
+msgstr "Ukloni ovu stavku"
+
+#: woocommerce/cart/cart.php:134
+msgid "Discount Code"
+msgstr "Koda kupona"
+
+#: woocommerce/cart/cart.php:135
+#, fuzzy
+msgid "Enter your coupon code if you have one."
+msgstr "Unesite svoj kupon kod ako imate jedan."
+
+#: woocommerce/cart/cart.php:136
+#, fuzzy
+msgid "Coupon code"
+msgstr "Kod kupona"
+
+#: woocommerce/cart/cart.php:136
+#, fuzzy
+msgid "Apply Coupon"
+msgstr "Primjeni kupon"
+
+#: woocommerce/cart/cart.php:142
+msgid "Clear Cart"
+msgstr "Čista korpa"
+
+#: woocommerce/cart/cart.php:143
+#, fuzzy
+msgid "Update Cart"
+msgstr "Ažuriraj košaricu"
+
+#: woocommerce/cart/mini-cart.php:60
+#, fuzzy
+msgid "Quantity:"
+msgstr "Količina"
+
+#: woocommerce/cart/mini-cart.php:85 woocommerce/checkout/review-order.php:66
+msgid "Subtotal"
+msgstr "Ukupno"
+
+#: woocommerce/cart/mini-cart.php:93
+msgid "No products in the cart."
+msgstr "Nema proizvoda u košarici"
+
+#. translators: %d: total results
+#: woocommerce/loop/result-count.php:31
+#, php-format
+msgid "Showing the single result"
+msgid_plural "Showing all %d results"
+msgstr[0] "Prikazuje se jedan rezultat"
+msgstr[1] ""
+msgstr[2] ""
+
+#. translators: 1: first result 2: last result 3: total results
+#: woocommerce/loop/result-count.php:36
+#, php-format
+msgctxt "with first and last result"
+msgid "Showing the single result"
+msgid_plural "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr[0] "Prikazuje se jedan rezultat"
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product/product-image.php:47
+msgid "Awaiting product image"
+msgstr "Čekanje slike proizvoda"
+
+#: woocommerce/single-product/rating.php:37
+#, fuzzy, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s pregled"
+msgstr[1] ""
+msgstr[2] ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr "Povezani proizvodi"
+
+#: woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr "Možda će vam se također svidjeti&hellip;"
+
+#. Theme Name of the plugin/theme
+#, fuzzy
+msgid "Brideliness"
+msgstr "Brideliness"
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "http://brideliness.themes.zone"
+msgstr "http://brideliness.Themes.zone"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Bridal Shop Theme."
+msgstr "Tema za svadbenu trgovinu."
+
+#. Author of the plugin/theme
+#, fuzzy
+msgid "Themes Zone"
+msgstr "Teme zona"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://themes.zone"
+msgstr "http://Themes.zone"
+
+#~ msgid "Text here..."
+#~ msgstr "Pre…"
